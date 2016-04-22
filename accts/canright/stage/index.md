@@ -5,7 +5,7 @@
 - Senior Software Engineer
 
 ### [Core Capabilities](/core-capabilities.hmd)
-Javascript ES6/2015, Node, Typescript, Functional Programming, JSON, Express, TDD, Mocha, npm, git, agile software development.
+Javascript ES6/2015, Node, Typescript, Functional Programming, JSON, Express, eslint, TDD, Mocha, npm, git, agile software development.
 
 ### [Server Side Capabilities](/server-side.hmd)
 

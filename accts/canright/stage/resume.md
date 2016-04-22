@@ -5,7 +5,7 @@
 ### Core Capabilities
 - **Javascript ES6/2015**, **JSON**
 - **Node**, npm, express
-- Typescript
+- Typescript, eslint, jslint
 - Functional Programming
 - TDD, mocha, assert, request
 - **Linux**, **bash**, git, vim

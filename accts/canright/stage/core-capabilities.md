@@ -2,7 +2,7 @@
 
 - **Javascript ES6/2015**, **JSON**
 - **Node** 4 & 5, npm, express
-- Typescript
+- Typescript, eslint, jslint
 - Functional Programming
 - TDD, mocha, assert, request
 - **Linux**, **bash**, git, vim
