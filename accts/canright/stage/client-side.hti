@@ -1,0 +1,30 @@
+{
+  "skin": "client-side",
+  "metaTitle": "Client-Side Applications | Canright",
+  "titleA": "Client",
+  "titleB": "Side",
+  "portfolioWebsites": {
+    "title": "Selected Responsive Websites:",
+    "list": [
+      {"href": "http://amdarchitects.com"        , "label": "AMDA"                   , "location": "Denver, CO"},
+      {"href": "http://campandcamp.com"          , "label": "Camp & Camp Architects" , "location": "Walnut Creek, CA"},
+      {"href": "http://gbjarch.com"              , "label": "GBJ Architecture"       , "location": "Portland, OR"},
+      {"href": "http://gellosarchitect.com"      , "label": "Gellos Architect"       , "location": "Tualatin, OR"},
+      {"href": "http://jzmkpartners.com"         , "label": "JZMK Partners"          , "location": "Costa Mesa, CA"},
+      {"href": "http://kcct.com"                 , "label": "KCCT"                   , "location": "Washington, DC"},
+      {"href": "http://kuminalaska.com"          , "label": "Kumin Architecture"     , "location": "Anchorage, AK"},
+      {"href": "http://mcfarchitects.com"        , "label": "MCFA"                   , "location": "Pittsburgh, PA"},
+      {"href": "http://mtfa.net"                 , "label": "MTFA Architecture"      , "location": "Arlington, VA"},
+      {"href": "http://thuilot.com"              , "label": "Thuilot Associates"     , "location": "Berkeley, CA"},
+      {"href": "http://ahsarch.com"              , "label": "Ammon Heisler Sachs"    , "location": "Baltamore, MD"},
+      {"href": "http://barberarchitecture.com"   , "label": "Barber Architecture"    , "location": "Denver, CO"},
+      {"href": "http://berardipartners.com"      , "label": "Berardi + Partners"     , "location": "Columbus, OH"},
+      {"href": "http://ccharch.com"              , "label": "CC Hodgson"             , "location": "Cleveland, OH"},
+      {"href": "http://d3architecture.com"       , "label": "D3 architecture"        , "location": "Los Angeles, CA"},
+      {"href": "http://eatonhallarchitecture.com", "label": "Eaton Hall Architecture", "location": "San Jose, CA"},
+      {"href": "http://ecbcommercial.com"        , "label": "ECB Commercial"         , "location": "Bethesda, MD"},
+      {"href": "http://farringtonarchitect.com"  , "label": "Farrington Architect"   , "location": "Lake Oswego, OR"},
+      {"href": "http://antiquehome.canright.com" , "label": "Antique Home"           , "location": "Portland, OR"}
+    ]
+  }
+}

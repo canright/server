@@ -1,0 +1,52 @@
+{
+  "name": "canright-server",
+  "version": "0.6.0",
+  "description": "lean multi-acct markdown and server-side templating website server",
+  "private": true,
+  "author": "Jim Canright",
+  "license": "MIT",
+  "main": "server.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/canright-server.git"
+  },
+
+  "keywords": [
+    "multi-site server",
+    "multi-account server",
+    "node server framework",
+    "hogan server-side templates",
+    "markdown server",
+    "node",
+    "es6/2015",
+    "typescript"
+  ],
+ 
+  "scripts": {
+    "style": "lessc accts/canright/stage/style.less accts/canright/stage/style.css",
+    "lint": "eslint *.js, lib/*.js",
+    "build": "npm run style && npm run lint",
+    "start": "npm run build && node server",
+    "test": "mocha"
+  },
+
+ "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "morgan": "*",
+    "serve-favicon": "*",
+    "express": "*",
+    "debug": "*",
+    "hogan": "*",
+    "less": "*",
+    "lodash": "*",
+    "mongodb": "*",
+    "request": "*"
+  },
+
+  "devDependencies": {
+    "mocha": "*"
+  }
+
+}

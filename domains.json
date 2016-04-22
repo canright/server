@@ -1,0 +1,27 @@
+{
+  "localhost": {
+    "aid": "canright",
+    "vid": "stage",
+    "db" : "json",
+    "www": false,
+    "version": "0.6.0",
+    "active" : true
+  },
+ "canright.net": {
+    "aid": "canright",
+    "vid": "stage",
+    "db" : "json",
+    "www": true,
+    "version": "1.0.0",
+    "active" : false
+  },
+  "canright.biz": {
+    "aid": "canright",
+    "www": true,
+    "version": "0.1.0",
+    "provid": "0.0.0",
+    "db": "yaml",
+    "root": ["index.hmd", "index.htm", "index.html", "/default.hmd", "/default.htm"],
+    "active": true
+  }
+}
