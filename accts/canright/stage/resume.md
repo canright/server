@@ -101,7 +101,7 @@ An extranet application development framework.
 
 Enables flexible definition and configuration of extranets or intranets with little or no coding.
 
-Microsoft centric stack: .Net, Sql Server, IIS, c#, asp, XML, Windows Server, ...
+Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Server, ...
 
 ## Web Database Applications Developer
 
