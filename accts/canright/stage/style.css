@@ -66,6 +66,9 @@ article {
   padding-bottom: 48px;
   padding-top: 8px;
 }
+article * {
+  max-width: 480px;
+}
 article ul {
   margin: 0;
   padding: 0;

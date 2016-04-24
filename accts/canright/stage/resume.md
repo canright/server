@@ -1,38 +1,41 @@
 # Jim Canright
+
 - Full Stack Javascript Applications Developer
 - Senior Software Engineer
 
-### Core Capabilities
-- **Javascript ES6/2015**, **JSON**
-- **Node**, npm, express
+## Core Capabilities
+
+- Javascript ES6/2015, JSON
+- Node, npm, express
 - Typescript, eslint, jslint
 - Functional Programming
 - TDD, mocha, assert, request
-- **Linux**, **bash**, git, vim
+- Linux, bash, git, vi / vim
 - Agile software development and operations
 
-### Database Technologies
+## Database Technologies
 
-- **SQL**, **Relational Database Architecture**, **ERD**
-- **MS Sql Server**
+- SQL, Relational Database Architecture, ERD/Erwin
+- MS Sql Server
 - XML, JSON, YAML, REST
 - MariaDb, mySql
 - MongoDb, Redis
 - Oracle, DBA
 
-### Client-side Technnologies
+## Client-side Technnologies
 
-- **HTML5**, **CSS3**, Less
-- **jQuery**, **DOM**, Ajax
-- **Client side javascript**
-- **Responsive websites**
-- **Website design**
-- **UI/UX**
+- HTML5, CSS3, Less
+- jQuery, DOM, Ajax
+- Client side javascript
 - MVC, Angular 1, React
+- Responsive websites, AMP
+- Website design
 - Visual Design
-- Photoshop
+- UI/UX
+- Photoshop, gimp
 
-### Application Domains
+## Application Domains
+
 - Execution Management Systems
 - Enterprise, Manufacturing, Distribution, Logistics
 - Custom web database business applications
@@ -40,86 +43,59 @@
 - Responsive Websites, Portfolio Websites
 - Webmaster, Server Administration (Windows Server & Linux)
 
-### Full Stack / Background Technologies
+## Platforms
 
-- **Application design & development**
+- Linux, C, Unix, Oracle
+- Windows Server, IIS, ASP, c#, VbScript, jScript, .net, MS Sql Server, DOS
+
+## Full Stack / Background Technologies
+
+- Application design & development
 - DFD, Requirements & Design Specifications.
-- **Templating**, **hogan**, **handlebars**, moustache, **template strings**
-- **C**
-- **HTTP**
-- **Markdown**
-- **Windows Server**, **IIS**, **ASP**, **VbScript**, C#..., .net...
-- **Webmaster**, **DNS**, SEO, Analytics
-- **Agile**, scrum...
-- hands on agile project team membership/leadership/management.
-- client negotiations, account management, business unit management.
+- Templating, hogan, handlebars, moustache, template strings
+- Markdown, document management systems
+- Webmaster, DNS, SEO, Analytics
+- Agile, scrum...
 - Website hosting, Linux & Windows Server Administration
-- Unix
-- SMTP, FTP, Security, Authentication
+- HTTP, SMTP, FTP, Security, Authentication
 - Devops for lean teams.
-- LAMP, Apache, PHP
+- LAMP, Apache, PHP, C
 - Digital IO, RS232, Device interfaces, Data collection.
 - 'real-time' asynchronous automated systems.
 - Production controllers, terminal and printer interfaces.
-- **Asynch processing**, Device interfaces, Production controllers...
-- IOT on Raspberry.
+- Node Digital I/O on Raspberry Pi.
 
-### Platforms
-- Linux, C, LAMP, asp, .net, c#
-- MS Server, c#, asp, .net, IIS, MS Sql
+## Non-Technical Expertise
 
-### Non-Technical Expertise
 - Hands on agile team membership and leadership
-- Client negotiations, Account management
-- Entrepeneurship
+- client account management, business unit management.
+- digtal marketing.
 
-### Employment / Project History
+## Employment / Project History
 
-### Responsive Website Design and Development
-##### Canright, Portland OR
-##### 2011 - Present
+## Responsive Website Design and Development
 
-Continue supporting existing and new architect websites on the same platform.
+### Canright, Portland OR, 2011 - Present
 
-Transforming database and content manager from the legacy MS SQL/IIS/.Net/ASP stack to a new database agnostic content manager running on javascript ES2015 / node / linux.
+Custom website design/development with vanillaJS, HTML5, CSS3, and jQuery.  Primarily new Architect websites due to reputation and residual benifits of marketing Websites for Architects.  Also, upgrade legacy Websites for Architect websites to be more fully responsive.
 
-Refactoring to a new lean content manager to leverage server side handlebars templating and a lean 
+Transforming client database, content manager and hosting from legacy MS SQL /IIS / .Net / ASP to Linux / Node / javascript / mariaDb / react / slick grid stack.
 
-explore nodejs
+## Websites for Architects
 
-Finish This!
+### Canright, Portland OR, 2005 - 2011
 
-github.com/canright/dns
+Leading producer of custom websites for architects in US.  Established Websites for Architects business unit with 2-5 website designers, 1-3 software engineers and 1-3 salespeople.
 
-Portfolio of responsive websites: canrght.net/responsive.htm
-
-- [Server CLI](https://github.com/canright/cli)
-- [DNS Lookups](https://github.com/canright/dns)
-- [Canright Server](/canright-server.hmd)
-
-### Websites for Architects
-##### Canright, Portland OR
-##### 2005 - 2011
-
-Content Manager oriented to portfolio (architect) websites.
-
-Content Manager is produced by the Extranet Kit to maintain the database resources in an MS Sql Server database and the filesystem.
-
-Website Generator produces HTML5, CSS3, jQuery/javascript and other resources from that content.
+Leverages proprietary Content Manager oriented to portfolio (architect) websites which is produced by the Extranet Kit to maintain the database resources in an MS Sql Server database and the filesystem.  Website Generator produces HTML5, CSS3, jQuery/javascript and other resources from that content.  Website generator interprets a custom moustache-like template data substitution language.
 
 Used Flash at first, then HTML5/jQuery to produce slide-shows, presentations, interactive thumbnail grids and other active components.
 
-Website generator interprets a custom moustache-like template data substitution language.
-
-Established Websites for Architects business unit with 2-5 website designers, 1-3 software engineers and 1-3 salespeople.
-
-Leading producer of custom websites for architects in US.
-
 [http:canright.com](Website)
 
-### Extranet Kit
-##### Canright Systems, Portland OR
-##### 2004 - 2006
+## Extranet Kit
+
+### Canright Systems, Portland OR, 2004 - 2006
 
 An extranet application development framework.
 
@@ -127,38 +103,18 @@ Enables flexible definition and configuration of extranets or intranets with lit
 
 Microsoft centric stack: .Net, Sql Server, IIS, c#, asp, XML, Windows Server, ...
 
-### Web Database Applications Developer
-##### Canright Systems, Portland OR
-##### 1995 - 2004
+## Web Database Applications Developer
+
+### Canright Systems, Portland OR, 1995 - 2004
 
 Led team of 4 - 12 engineers consulting firm to design, develop and support manufacturing, distribution and shop floor control applications.
 
-On Fulfillment
-Metrofueling
-InGenius
-Machinery Sales Company
-Tropitone Furniture
-1 800 Reconex
-Pacificorp
-Wacker Siltronix
-Pacific Pride / Truax Harris
-Weiden & Kennedy
-Esco Steel
-Scrubmed
-Geotrust
-Semantic
-Maywood Studios
-EE Schenck
-ZIlog
-Insight World Wide
-Sublimity Insurance
-Soloflex
+Clients included 1 800 Reconex, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Semantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Soloflex.
 
-SEO / SEM
+## Senior Manufacturing Systems Analyst
 
-### Senior Manufacturing Systems Analyst
-##### Canright Systems for JIT, Fourth Shift, Minniapolis, MN
-##### 1991 - 1995
+### Canright Systems for JIT, Fourth Shift, Minniapolis, MN
+[//]: # (1991 - 1995)
 
 Architect and lead consulting team of 4 - 12 developers to develop and support core modules of the commercial JIT MRPII package written in Oracle Forms 3 and C .
 
@@ -166,20 +122,23 @@ General architect for all aspects of the manufacturing applications, especially 
 
 Consulted on projects at major client accounts: Columbus McKinnon, Woodward Governor, Boeing Georgia, TRW Space and Engineering Group, TRW Systems Integration Group, Delco Remey, General Dynamics, GE, GTE, Sulzer Intermedics,, Hughes Space and Communictions, Litton Laser, Tropitone Furniture, Westland Engineering, Avial.
 
-### Execution Management Systems
-##### Canright Systems, Portland OR
-##### 1988-1991
+## Execution Management Systems
+
+### Canright Systems, Portland OR
+[//]: # (1988-1991)
 
 Data collection, monitoring and control applications.  Consulting and development for production tracking and control.  Data collection, shop floor control and monitoring systems using a mix of C, Unix, RS232 and Oracle.  Interface with sensors, counters and triggers as well as the API for printers and other devices.
 
 Clinets included:
+
 - General Mills - Warehouse Management System.
 - Stanislaus Food Products - Automated Receiving and Inventory Application.
 - Entergy - Automated Data Collection, monitoring and alert Management Application.
 
-### V.P. Data Collection Products
-##### CIMS, Chicago IL
-##### 1986-1988
+## V.P. Data Collection Products
+
+### CIMS, Chicago IL
+[//]: # (1986-1988)
 
 Produced and supported data collection and controller products and interfaces marketed in the US and Europe using C, Oracle, and two non-relajtional databases (ISAM and MDBS database management system).
 
@@ -191,9 +150,10 @@ Designed and developed a Warehouse Management System for Michigan Fruit Canners 
 
 Contributed to the conception and architecture JIT, a new MRPII package.
 
-### Manufacturing Systems Applications Developer
-##### QMRP, Qantel, Hayward CA
-##### 1982-1986
+## Manufacturing Systems Applications Developer
+
+### QMRP, Qantel, Hayward CA
+[//]: # (1982-1986)
 
 Key contributor to the (then) very successful commercial MRPII package.
 
@@ -201,7 +161,7 @@ Directly designed, architected and developed core manufacturing modules: Master 
 
 Contributed to bulk of the manufacturing modules including the design and development of the core MRP engine.
 
-### Jim Canright
+## Jim Canright
 
 - jim@canright.net
 - 503.267.8291

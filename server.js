@@ -60,7 +60,6 @@ const log = s => console.log(s),
   app.use(root.bubble);      // root folder request
 
   log(`- Serving: HTTP at localhost:${config.PORT}\n`);
-
   app.listen(config.PORT);
 }).catch((err) => log(`- aborted: ${err}.`));
 
