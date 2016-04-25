@@ -1,16 +1,16 @@
-### Server Side Capabilities:
+# Server Side Capabilities:
 
-#### [CLI for Node Server (open source)](https://github.com/canright/cli)
+## [CLI for Node Server (open source)](https://github.com/canright/cli)
 - Stub CLI module for a node server.
 - Javascript ES6/2015, nodejs, express, npm, ...
 - pause & resume log stream to stdio.
 
-#### [DNS Lokups with REST & CLI (open source)](https://github.com/canright/dns)
+## [DNS Lokups with REST & CLI (open source)](https://github.com/canright/dns)
 - REST DNS lookups.
 - Javascript ES6/2015, nodejs, express, git, npm, ...
 - Functional programming - ES6 template strings.
 
-#### [Canright Server](/canright-server.hmd)
+## [Canright Server](/canright-server.hmd)
 - Lean noCMS markdown and server-side templating multi-account website server.
 - Javascript ES6/2015, nodejs, json, less.
 - REST account dictionary lookups.
@@ -18,7 +18,7 @@
 - Adding yaml support for data in filesystem.
 - Upgrading to typescript 1.8.
 
-#### Database Technologies
+## Database Technologies
 - SQL, Relational Database Architect
 - MS Sql Server
 - XML, JSON, YAML, REST
@@ -26,7 +26,7 @@
 - MongoDb, Redis
 - Oracle, DBA
 
-#### Application Domains
+## Application Domains
 - Execution Management Systems
 - Enterprise Applications
 - Web Database Applications
@@ -34,7 +34,7 @@
 - Responsive Websites
 - Webmaster, Server Administration
 
-#### Full Stack / Background Technologies
+## Background Technologies
 - Linux, C, LAMP, asp, .net, c#
 - MS Server, c#, asp, .net, IIS, MS Sql, vbscript
 - markdown
