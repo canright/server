@@ -5,34 +5,30 @@
 
 ## Core Capabilities
 
-- Javascript ES6/2015, JSON
-- Node, npm, express
-- Typescript, eslint, jslint
-- Functional Programming
+- Javascript ES6/2015, Node, npm, JSON, express
+- Typescript, eslint, jslint, linux, bash, git, vi(m)
+- functional programming
 - TDD, mocha, assert, request
-- Linux, bash, git, vi / vim
 - Agile software development and operations
 
 ## Database Technologies
 
 - SQL, Relational Database Architecture, ERD/Erwin
-- MS Sql Server
+- mySql / mariaDb, MS Sql Server, Oracle, MongoDb, Redis
 - XML, JSON, YAML, REST
-- MariaDb, mySql
-- MongoDb, Redis
-- Oracle, DBA
 
 ## Client-side Technnologies
 
-- HTML5, CSS3, Less
-- jQuery, DOM, Ajax
-- Client side javascript
-- MVC, Angular 1, React
-- Responsive websites, AMP
-- Website design
-- Visual Design
-- UI/UX
-- Photoshop, gimp
+- HTML5, CSS3, Less, - jQuery, DOM, Ajax
+- MVC, Angular 1, React, responsive websites, AMP
+- Website design, visual Design, UI/UX, Photoshop, gimp
+
+## Connected Devices / IOT
+
+- Event driven applications, 'real-time' asynch apps systems
+- Digital IO, RS232, Device interfaces, Data collection
+- Production controllers, terminal and printer interfaces
+- Node Digital I/O on Raspberry Pi
 
 ## Application Domains
 
@@ -45,31 +41,19 @@
 
 ## Platforms
 
-- Linux, C, Unix, Oracle
-- Windows Server, IIS, ASP, c#, VbScript, jScript, .net, MS Sql Server, DOS
+- Linux, C, Unix, Oracle, Ubuntu 16.04, LAMP, apache, php
+- .net, c#, ASP, vbscript, jscript, Windows Server, Sql Server, IIS
 
-## Full Stack / Background Technologies
+## Background Capabilities
 
-- Application design & development
-- DFD, Requirements & Design Specifications.
+- Application architecture, design & development, 
+- Requirements, design specs,  & Design Specifications
 - Templating, hogan, handlebars, moustache, template strings
 - Markdown, document management systems
-- Webmaster, DNS, SEO, Analytics
-- Agile, scrum...
-- Website hosting, Linux & Windows Server Administration
+- Agile, scrum, devops for lean teams
 - HTTP, SMTP, FTP, Security, Authentication
-- Devops for lean teams.
-- LAMP, Apache, PHP, C
-- Digital IO, RS232, Device interfaces, Data collection.
-- 'real-time' asynchronous automated systems.
-- Production controllers, terminal and printer interfaces.
-- Node Digital I/O on Raspberry Pi.
-
-## Non-Technical Expertise
-
 - Hands on agile team membership and leadership
-- client account management, business unit management.
-- digtal marketing.
+- Client account management, Business unit management
 
 ## Employment / Project History
 
@@ -77,9 +61,9 @@
 
 ### Canright, Portland OR, 2011 - Present
 
-Custom website design/development with vanillaJS, HTML5, CSS3, and jQuery.  Primarily new Architect websites due to reputation and residual benifits of marketing Websites for Architects.  Also, upgrade legacy Websites for Architect websites to be more fully responsive.
+Custom website design and development with HTML5, CSS3, and jQuery / javascript - primarily architect websites due to reputation and residual benifits of marketing Websites for Architects.  Upgrade legacy acounts to be more fully responsive.
 
-Transforming client database, content manager and hosting from legacy MS SQL /IIS / .Net / ASP to Linux / Node / javascript / mariaDb / react / slick grid stack.
+Transform client database, content manager and hosting from legacy MS SQL /IIS / .Net / ASP to Linux / Node / javascript / mariaDb / react / slick grid stack.
 
 ## Websites for Architects
 
@@ -87,7 +71,7 @@ Transforming client database, content manager and hosting from legacy MS SQL /II
 
 Leading producer of custom websites for architects in US.  Established Websites for Architects business unit with 2-5 website designers, 1-3 software engineers and 1-3 salespeople.
 
-Leverages proprietary Content Manager oriented to portfolio (architect) websites which is produced by the Extranet Kit to maintain the database resources in an MS Sql Server database and the filesystem.  Website Generator produces HTML5, CSS3, jQuery/javascript and other resources from that content.  Website generator interprets a custom moustache-like template data substitution language.
+Leverages proprietary content manager oriented to portfolio (architect) websites which is produced with the Extranet Kit to maintain the database resources in an MS Sql Server database and the filesystem.  Website Generator produces HTML5, CSS3, jQuery/javascript and other resources from that content.  Website generator interprets a custom moustache-like template data substitution language.
 
 Used Flash at first, then HTML5/jQuery to produce slide-shows, presentations, interactive thumbnail grids and other active components.
 
@@ -107,16 +91,16 @@ Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Serv
 
 ### Canright Systems, Portland OR, 1995 - 2004
 
-Led team of 4 - 12 engineers consulting firm to design, develop and support manufacturing, distribution and shop floor control applications.
+Led team of 4 - 12 engineers consulting firm.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
 
-Clients included 1 800 Reconex, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Semantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Soloflex.
+Clients included 1 800 Reconex, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Semantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Montgomery & Graham, Soloflex, Wherenext.
 
 ## Senior Manufacturing Systems Analyst
 
 ### Canright Systems for JIT, Fourth Shift, Minniapolis, MN
 [//]: # (1991 - 1995)
 
-Architect and lead consulting team of 4 - 12 developers to develop and support core modules of the commercial JIT MRPII package written in Oracle Forms 3 and C .
+Architect and lead consulting team of 4 - 12 developers to develop and support core modules of the commercial JIT MRPII package written in Oracle Forms 3 and C.
 
 General architect for all aspects of the manufacturing applications, especially the modules I developed: mps, mrp, crp, sales forecasting, porduction order managegement, work in process, execution manageent, job costing, boms, ecc, routings, quotation, production tracking...
 
