@@ -83,7 +83,7 @@ Used Flash at first, then HTML5/jQuery to produce slide-shows, presentations, in
 
 An extranet application development framework.
 
-Enables flexible definition and configuration of extranets or intranets with little or no coding.
+Enables flexible definition and descriptive configuration of extranets, intranets or content managers with little or no coding.
 
 Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Server, ...
 
@@ -91,7 +91,7 @@ Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Serv
 
 ### Canright Systems, Portland OR, 1995 - 2004
 
-Led team of 4 - 12 engineers consulting firm.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
+Led consulting firm with team of 4 - 12 engineers and a few management, administration and sales people consulting firm.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
 
 Clients included 1 800 Reconex, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Semantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Montgomery & Graham, Soloflex, Wherenext.
 
@@ -100,9 +100,9 @@ Clients included 1 800 Reconex, Pacificorp, On Fulfillment, Pacific Pride, Metro
 ### Canright Systems for JIT, Fourth Shift, Minniapolis, MN
 [//]: # (1991 - 1995)
 
-Architect and lead consulting team of 4 - 12 developers to develop and support core modules of the commercial JIT MRPII package written in Oracle Forms 3 and C.
+Led consulting team of 3 - 8 software engineers to architect, develop and support core modules of the commercial JIT MRPII package written in Oracle Forms 3 and C and running on Unix systems.
 
-General architect for all aspects of the manufacturing applications, especially the modules I developed: mps, mrp, crp, sales forecasting, porduction order managegement, work in process, execution manageent, job costing, boms, ecc, routings, quotation, production tracking...
+General architect for all aspects of the JIT package, especially the modules I developed: mps, mrp, crp, sales forecasting, porduction order managegement, work in process, execution manageent, job costing, boms, routings, quotation, production tracking...
 
 Consulted on projects at major client accounts: Columbus McKinnon, Woodward Governor, Boeing Georgia, TRW Space and Engineering Group, TRW Systems Integration Group, Delco Remey, General Dynamics, GE, GTE, Sulzer Intermedics,, Hughes Space and Communictions, Litton Laser, Tropitone Furniture, Westland Engineering, Avial.
 
@@ -111,9 +111,9 @@ Consulted on projects at major client accounts: Columbus McKinnon, Woodward Gove
 ### Canright Systems, Portland OR
 [//]: # (1988-1991)
 
-Data collection, monitoring and control applications.  Consulting and development for production tracking and control.  Data collection, shop floor control and monitoring systems using a mix of C, Unix, RS232 and Oracle.  Interface with sensors, counters and triggers as well as the API for printers and other devices.
+Data collection, monitoring and control applications.  Consulting and development for production tracking and control.  Used a mix of C, Unix, RS232 and Oracle.  Interface with sensors, counters and triggers as well as the API for printers and other devices.
 
-Clinets included:
+Clients included:
 
 - General Mills - Warehouse Management System.
 - Stanislaus Food Products - Automated Receiving and Inventory Application.
@@ -124,7 +124,7 @@ Clinets included:
 ### CIMS, Chicago IL
 [//]: # (1986-1988)
 
-Produced and supported data collection and controller products and interfaces marketed in the US and Europe using C, Oracle, and two non-relajtional databases (ISAM and MDBS database management system).
+Produced and supported data collection and controller products and interfaces marketed in the US and Europe using C, Oracle, and two non-relational databases (ISAM and MDBS database management system).
 
 Interfaces to sensors, counters, switches and triggers.  Communicate with data collection terminals, printers and digital i/o devices.
 

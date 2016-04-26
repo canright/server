@@ -5,7 +5,7 @@
 #### Full Stack Javascript Applications Developer
 #### Senior Software Engineer
 
-## [Core Capabilities](/core-capabilities.hmd)
+## [Core Technologies](/core-capabilities.hmd)
 Javascript ES6/2015, Node, Typescript, functional programming, JSON, Express, eslint, TDD, Mocha, npm, linux, bash, git, agile software development.
 
 ## [Server Side Capabilities](/server-side.hmd)
