@@ -23,6 +23,14 @@
     "version": "0.6.0",
     "active" : true
   },
+ "192.168.41.173": {
+    "aid": "canright",
+    "vid": "stage",
+    "db" : "json",
+    "www": true,
+    "version": "0.6.0",
+    "active" : true
+  },
   "www.canright.net": {
     "aid": "canright",
     "www": true,
