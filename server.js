@@ -31,7 +31,7 @@ const log = s => console.log(s),
   global.appRoot = path.resolve(__dirname);
   return doms.initialize(config.DOMAINS);
 })().then(() => {
-  log(`- initialized...`);
+  log(`- Initialized...`);
   app.use(parser.json());
   app.use(parser.urlencoded({ extended: false }));
   app.use(cookies());
