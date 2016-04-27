@@ -19,7 +19,7 @@
 
 ## Client-side Technnologies
 
-- HTML5, CSS3, Less, - jQuery, DOM, Ajax
+- HTML5, CSS3, Less, jQuery, DOM, Ajax
 - MVC, Angular 1, React, responsive websites, AMP
 - Website design, visual Design, UI/UX, Photoshop, gimp
 
@@ -69,13 +69,11 @@ Transform client database, content manager and hosting from legacy MS SQL /IIS /
 
 ### Canright, Portland OR, 2005 - 2011
 
-Leading producer of custom websites for architects in US.  Established Websites for Architects business unit with 2-5 website designers, 1-3 software engineers and 1-3 salespeople.
+Leading producer of custom websites for architects in US.  Established [Websites for Architects](http://canright.com) business unit with 2-5 website designers, 1-3 software engineers and 1-3 salespeople.
 
 Leverages proprietary content manager oriented to portfolio (architect) websites which is produced with the Extranet Kit to maintain the database resources in an MS Sql Server database and the filesystem.  Website Generator produces HTML5, CSS3, jQuery/javascript and other resources from that content.  Website generator interprets a custom moustache-like template data substitution language.
 
 Used Flash at first, then HTML5/jQuery to produce slide-shows, presentations, interactive thumbnail grids and other active components.
-
-[http:canright.com](Website)
 
 ## Extranet Kit
 
