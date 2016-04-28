@@ -148,6 +148,6 @@ Contributed to bulk of the manufacturing modules including the design and develo
 - 503.267.8291
 - [canright.net](http://www.canright.net)
 - [github.com/canright](http://github.com/canright)
-- 4342 SE Hawthorne Blvd., Portland, OR 97215
+- 4232 SE Hawthorne Blvd., Portland, OR 97215
 - BSCS, U.C. Berkeley
 - Briggs Myer: INTP
