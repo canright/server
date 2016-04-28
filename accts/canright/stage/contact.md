@@ -1,5 +1,5 @@
 - **Jim Canright**
-- 4342 SE Hawthorne Blvd.
+- 4232 SE Hawthorne Blvd.
 - Portland, OR 97215
 - 503 267-8281
 - [jim@canright.net](mailto:jim@canright.net)
