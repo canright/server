@@ -19,7 +19,7 @@
     "aid": "canright",
     "vid": "stage",
     "db" : "json",
-    "www": true,
+    "www": false,
     "version": "0.6.0",
     "active" : true
   },
@@ -31,7 +31,7 @@
     "version": "0.6.0",
     "active" : true
   },
-  "www.canright.net": {
+  "abc.canright.net": {
     "aid": "canright",
     "www": true,
     "version": "0.1.0",
