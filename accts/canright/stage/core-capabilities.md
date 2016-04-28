@@ -5,11 +5,5 @@
 - Typescript, eslint, jslint
 - Functional Programming
 - TDD, mocha, assert, request
-- Linux, bash, git, vim
+- Linux, bash, git, vi, ssh
 - Agile software development and operations
-
-## Open Source Examples:
-
-- [Server CLI (github)](https://github.com/canright/cli)
-- [REST DNS Lookups (github)](https://github.com/canright/dns)
-- [Multi-Account Server](/canright-server.hmd)

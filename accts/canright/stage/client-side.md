@@ -2,7 +2,7 @@
 ### All hand coded by Jim Canright with:
 - HTML5
 - jQuery, Javascript, DOM, Ajax
-- CSS, CSS3
+- CSS, CSS3, less
 - web design / development
 - user experience / interface design
 - [canright.com](http://www.canright.com) - Websites for Architects

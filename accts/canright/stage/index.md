@@ -19,15 +19,9 @@ Javascript ES6/2015, Node, Typescript, functional programming, JSON, Express, es
 
 **Platforms and Background Technologies**: Linux, Ubuntu, bash, vim, C, LAMP, asp, .net, c#, MS Server, c#, IIS, MS Sql, vbscript, markdown, templating, hogan, handlebars, moustache
 
-**Open Source Javascript ES6 Node Projects**:
-
-- [Server CLI (github)](https://github.com/canright/cli)
-- [REST DNS Lookups (github)](https://github.com/canright/dns)
-- [Multi-Account Server](/canright-server.hmd)
-
 ## [Client Side Capabilities](/client-side.hmd)
 
-- [Portfolio](/client-side.hmd) of Selected Responsive Websites
+- Portfolio of selected responsive websites
 - built with jQuery, vanillaJS, HTML5, CSS
 - Client-side Javascript Frameworks
 
@@ -35,4 +29,4 @@ Javascript ES6/2015, Node, Typescript, functional programming, JSON, Express, es
 
 - Event driven applications, 'real-time' asynch apps systems
 - Production controllers, terminal and printer interfaces
-- Node Digital I/O on Raspberry Pi
+- Digital I/O on Raspberry Pi with Node

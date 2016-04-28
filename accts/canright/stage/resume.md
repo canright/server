@@ -6,7 +6,7 @@
 ## Core Capabilities
 
 - Javascript ES6/2015, Node, npm, JSON, express
-- Typescript, eslint, jslint, linux, bash, git, vi(m)
+- Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
 - functional programming
 - TDD, mocha, assert, request
 - Agile software development and operations
@@ -14,46 +14,46 @@
 ## Database Technologies
 
 - SQL, Relational Database Architecture, ERD/Erwin
-- mySql / mariaDb, MS Sql Server, Oracle, MongoDb, Redis
-- XML, JSON, YAML, REST
+- mySql, mariaDb, MS Sql Server, Oracle, MongoDb, Redis
+- REST, JSON, YAML, XML
 
 ## Client-side Technnologies
 
-- HTML5, CSS3, Less, jQuery, DOM, Ajax
-- MVC, Angular 1, React, responsive websites, AMP
+- HTML5, CSS3, Less, jQuery, DOM, Ajax, AMP
+- MVC, Angular 1, React, responsive websites
 - Website design, visual Design, UI/UX, Photoshop, gimp
 
 ## Connected Devices / IOT
 
-- Event driven applications, 'real-time' asynch apps systems
+- Event driven applications, 'real-time' asynch systems
 - Digital IO, RS232, Device interfaces, Data collection
 - Production controllers, terminal and printer interfaces
-- Node Digital I/O on Raspberry Pi
+- Digital I/O on Raspberry Pi with Node
 
 ## Application Domains
 
-- Execution Management Systems
-- Enterprise, Manufacturing, Distribution, Logistics
 - Custom web database business applications
 - Intranets, Extranets, Content management systems
+- Execution Management Systems
+- Enterprise, Manufacturing, Distribution, Logistics Applications
 - Responsive Websites, Portfolio Websites
-- Webmaster, Server Administration (Windows Server & Linux)
 
 ## Platforms
 
-- Linux, C, Unix, Oracle, Ubuntu 16.04, LAMP, apache, php
+- Linux, Unix, Ubuntu 16.04, C, LAMP, apache, php
 - .net, c#, ASP, vbscript, jscript, Windows Server, Sql Server, IIS
 
 ## Background Capabilities
 
-- Application architecture, design & development, 
-- Requirements, design specs,  & Design Specifications
+- Application architecture, design & development
+- Requirements & Design Specifications
 - Templating, hogan, handlebars, moustache, template strings
 - Markdown, document management systems
 - Agile, scrum, devops for lean teams
-- HTTP, SMTP, FTP, Security, Authentication
+- HTTP, SMTP, FTP, SMTP, DNS, Security, Authentication
 - Hands on agile team membership and leadership
-- Client account management, Business unit management
+- Project / Client account / Business unit management
+- Webmaster, Server Administration (Windows Server & Linux)
 
 ## Employment / Project History
 
@@ -79,9 +79,7 @@ Used Flash at first, then HTML5/jQuery to produce slide-shows, presentations, in
 
 ### Canright Systems, Portland OR, 2004 - 2006
 
-An extranet application development framework.
-
-Enables flexible definition and descriptive configuration of extranets, intranets or content managers with little or no coding.
+An extranet application development framework.  Enables flexible definition and declarative configuration of extranets, intranets or content managers.
 
 Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Server, ...
 
@@ -89,7 +87,7 @@ Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Serv
 
 ### Canright Systems, Portland OR, 1995 - 2004
 
-Led consulting firm with team of 4 - 12 engineers and a few management, administration and sales people consulting firm.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
+Led consulting firm with team of 4 - 12 engineers and a few management, administration and sales people.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
 
 Clients included 1 800 Reconex, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Semantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Montgomery & Graham, Soloflex, Wherenext.
 
@@ -112,7 +110,6 @@ Consulted on projects at major client accounts: Columbus McKinnon, Woodward Gove
 Data collection, monitoring and control applications.  Consulting and development for production tracking and control.  Used a mix of C, Unix, RS232 and Oracle.  Interface with sensors, counters and triggers as well as the API for printers and other devices.
 
 Clients included:
-
 - General Mills - Warehouse Management System.
 - Stanislaus Food Products - Automated Receiving and Inventory Application.
 - Entergy - Automated Data Collection, monitoring and alert Management Application.
@@ -123,6 +120,8 @@ Clients included:
 [//]: # (1986-1988)
 
 Produced and supported data collection and controller products and interfaces marketed in the US and Europe using C, Oracle, and two non-relational databases (ISAM and MDBS database management system).
+
+Developed CID 2000 - a nsoftware configuration and development package for a shop floor data collection/conrtroller device.  
 
 Interfaces to sensors, counters, switches and triggers.  Communicate with data collection terminals, printers and digital i/o devices.
 
