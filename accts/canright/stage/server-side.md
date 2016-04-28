@@ -1,58 +1,67 @@
-# Server Side Capabilities:
-
-## [CLI for Node Server (open source)](https://github.com/canright/cli)
-- Stub CLI module for a node server.
-- Javascript ES6/2015, nodejs, express, npm, ...
-- pause & resume log stream to stdio.
-
-## [DNS Lokups with REST & CLI (open source)](https://github.com/canright/dns)
-- REST DNS lookups.
-- Javascript ES6/2015, nodejs, express, git, npm, ...
-- Functional programming - ES6 template strings.
-
-## [Canright Server](/canright-server.hmd)
-- Lean noCMS markdown and server-side templating multi-account website server.
-- Javascript ES6/2015, nodejs, json, less.
-- REST account dictionary lookups.
-- This site (canright.net) is served directly by this module.
-- Adding yaml support for data in filesystem.
-- Upgrading to typescript 1.8.
+# Server Side Capabilities
 
 ## Database Technologies
-- SQL, Relational Database Architect
+
+- Relational Database Architect
+- ERD, Erwin
+- SQL
 - MS Sql Server
-- XML, JSON, YAML, REST
 - MariaDb, mySql
-- MongoDb, Redis
 - Oracle, DBA
+- MongoDb, Redis, ISAM
+- REST, JSON, YAML, XML
 
 ## Application Domains
+
+- Custom web database business applications
+- Intranets, Extranets, Content management systems
 - Execution Management Systems
-- Enterprise Applications
-- Web Database Applications
-- Intranets / Extranets
-- Responsive Websites
-- Webmaster, Server Administration
+- Enterprise, Manufacturing, Distribution, Logistics Applications
+- Responsive Websites, Portfolio Websites
 
-## Background Technologies
-- Linux, C, LAMP, asp, .net, c#
-- MS Server, c#, asp, .net, IIS, MS Sql, vbscript
-- markdown
-- templating, hogan, handlebars, moustache
+## Platforms
 
-#### [Applications Server Background and Experience](/history.hmd)
-- linux, cli/bash, unix, ...
-- relational database - architecture, modeling, applications, sql, mySql, MS Sql, Oracle, ERD, ...
-- noSql databases - redis, mongo, isam, ...
-- MS Windows Server, IIS, asp, .net, c#
-- LAMP, Apache, C, PHP
-- Enterprise applications - erp, mrp, manufacturing, distribution, logistics
-- Web Database Applications, extranets
-- Production tracking, monitors and controllers,  Device interfaces
-- Webmaster, Server Administration, DNS, SMTP, FTP, HTTP
-- Agile software development / scrume
-- Project Management / Agile stakeholder negotiations / Project Client negotiations
-- I host a multi-core Ubuntu/nodejs server and multiple MS Windows servers with Sql Server IIS serving .net / ASP applications.
-- Product Manager
-- I installed and manage all the servers in my rackspace including the nodejs applications above and the content manager, staging server and, usually, the live server for all of the websites in the [Responsive Website Portfolio](/portfolio.htm) and my venture [Canright Websites for Architects](http://canright.com).
+- Linux, Unix, Ubuntu 16.04
+- C, LAMP, apache, php
+- MS Windows Server
+- SQL Server, IIS
+- .net, c#
+- ASP, vbscript, jscript
+- I manage a rackspace with two Ubuntu Server 16.04 servers (one of which serves this website) and two Windows Servers - one with IIS and the other with Sql Server.
 
+## Background Capabilities
+
+- Application architecture, design & development
+- Requirements & Design Specifications
+- Templating, hogan, handlebars, moustache, template strings
+- Markdown, document management systems
+- Agile, scrum, devops for lean teams
+- HTTP, SMTP, FTP, Security, Authentication
+- Hands on agile team membership and leadership
+- Agile team / Product / Project / Client account / Business unit management
+- Webmaster, Server Administration (Windows Server & Linux)
+
+## Canright Server
+
+- This site (canright.net) is served directly by this module.
+- Lean noCMS multi-account website server
+- Server-side hogan templating.
+- Serves skinned markdown pages (this page is that - view page source to see markdown which is rendered client-side).
+- Typescript, Javascript ES6, nodejs, json, less.
+- Data Persisted in json, yaml, mongoDb, redis, mariaDb
+- REST account dictionary lookups.
+- This module is still private.
+
+## CLI for Node Server
+
+- Stub CLI module for a node server.
+- Typescript, Javascript ES6, nodejs, express, npm, ...
+- pause & resume log stream to stdio.
+- [open source on github](https://github.com/canright/cli)
+
+## DNS Lokups with REST
+
+- REST DNS lookups.
+- Javascript ES6, nodejs, express, git, npm, ...
+- Functional programming.
+- [open source on github](https://github.com/canright/dns)
