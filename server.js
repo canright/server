@@ -20,7 +20,7 @@ const morgan = require('morgan'),
 
 const log = s => console.log(s),
   logto   = cli.log,
-  LOGGER  = ':aid :vid :dat :status :method :remote-addr :url',
+  LOGGER  = ':aid :vid :dat :status :method :remote-addr :host :url',
   ok      = (res, title, body) => out.reply(res, out.htmlPage(title, body));
 
 (() => {
@@ -36,8 +36,9 @@ const log = s => console.log(s),
   app.use(parser.urlencoded({ extended: false }));
   app.use(cookies());
   app.use(doms.confirm);     // init req.dom
-  morgan.token('aid', function(req) {return req.dom.aid});
-  morgan.token('vid', function(req) {return req.dom.vid});
+  morgan.token('aid',  function(req) {return req.dom.aid});
+  morgan.token('vid',  function(req) {return req.dom.vid});
+  morgan.token('host', function(req) {return req.hostname});
   var pad = (k) => (k<10) ? '0' + k : '' + k;
   morgan.token('dat', function(req) {
     var d = new Date();
