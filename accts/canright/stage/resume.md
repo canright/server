@@ -3,7 +3,9 @@
 - Full Stack Javascript Applications Developer
 - Senior Software Engineer
 
-## Core Capabilities
+## Capabilities and Technologies
+
+### Core Javascript Ecosystem
 
 - Javascript ES6/2015, Node, npm, JSON, express
 - Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
@@ -11,13 +13,13 @@
 - TDD, mocha, assert, request
 - Agile software development and operations
 
-## Database Technologies
+### Database
 
 - SQL, Relational Database Architecture, ERD/Erwin
 - mySql, mariaDb, MS Sql Server, Oracle, MongoDb, Redis
 - REST, JSON, YAML, XML
 
-## Client-side Technnologies
+### Client Side
 
 HTML5, CSS, CSS3, Less, jQuery, javascript, DOM, Ajax, AMP.
 
@@ -27,22 +29,20 @@ All of my portfolio sites (www.canright.net/client-side.hmd) are built with thos
 
 Built (and use) an administration framework to maintain data on a MS Sql Server database.  I built this application with core tools (html5, css3, jQuery, javascript) and Slick Grid on the client side and MS IIS, ASP, Sql Server on the server side.
 
-anglular 1: I am familiar (but not fresh).  My deepest dive was to prototype a collaborative document manager.
+angular: familiar (but not fresh).  My deepest dive was to prototype a collaborative document manager with angular 1.
 
-react: I am re-factoring my library of client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
+react: re-factoring client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
 
-I am familiar with most, but expert with none of the popular frameworks (other than vanillaJS: jQuery with HTML5 and CSS3).  I am comfortable focusing on any of those frameworks.
+I am expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM) and familiar with most, but expert with none of the popular frameworks.  My experience is with the core tools - the best foundation for any framework.
 
-My experience is with the core tools - arguably the best foundation for leveraging any of the frameworks.
-
-## Connected Devices / IOT
+### Connected Devices / IOT
 
 - Event driven applications, 'real-time' asynch systems
 - Digital IO, RS232, Device interfaces, Data collection
 - Production controllers, terminal and printer interfaces
 - Digital I/O on Raspberry Pi with Node
 
-## Application Domains
+### Application Domains
 
 - Custom web database business applications
 - Intranets, Extranets, Content management systems
@@ -50,12 +50,12 @@ My experience is with the core tools - arguably the best foundation for leveragi
 - Enterprise, Manufacturing, Distribution, Logistics Applications
 - Responsive Websites, Portfolio Websites
 
-## Platforms
+### Platforms
 
 - Linux, Unix, Ubuntu 16.04, C, LAMP, apache, php
 - .net, c#, ASP, vbscript, jscript, Windows Server, Sql Server, IIS
 
-## Background Capabilities
+### Background
 
 - Application architecture, design & development
 - Requirements & Design Specifications
@@ -69,9 +69,9 @@ My experience is with the core tools - arguably the best foundation for leveragi
 
 ## Employment / Project History
 
-## Responsive Website Design and Development
+### Responsive Website Design and Development
 
-### Canright, Portland OR, 2011 - Present
+#### Canright, Portland OR, 2011 - Present
 
 Developing new (no-CMS) Content Management System with Node / javascript ES6 / linux / mongoDb, mySql, redis and react.
 
@@ -79,9 +79,9 @@ Transform existing content management and hosting platform with (about 100) Webs
 
 Custom website design and development with HTML5, CSS3, javascript and jQuery - primarily responsive websites for architects.
 
-## Websites for Architects
+### Websites for Architects
 
-### Canright, Portland OR, 2005 - 2011
+#### Canright, Portland OR, 2005 - 2011
 
 Leading producer of custom websites for architects in US.  Established [Websites for Architects](http://canright.com) business unit with 2-5 website designers, 1-3 software engineers and 1-3 salespeople.
 
@@ -89,9 +89,9 @@ Leverages proprietary content manager oriented to portfolio (architect) websites
 
 Used Flash at first, then HTML5/jQuery to produce slide-shows, presentations, interactive thumbnail grids and other active components.
 
-## Web Database Applications Developer
+### Web Database Applications Developer
 
-### Canright Systems, Portland OR, 1995 - 2006
+#### Canright Systems, Portland OR, 1995 - 2006
 
 Led consulting firm with team of 4 - 12 engineers and a few management, administration and sales people.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
 
@@ -101,9 +101,9 @@ Clients included 1 800 Reconex, Laika, Pacificorp, On Fulfillment, Pacific Pride
 
 All predominantly Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Server, ...
 
-## Senior Manufacturing Systems Analyst
+### Senior Manufacturing Systems Analyst
 
-### Canright Systems for JIT, Fourth Shift, Minniapolis, MN
+#### Canright Systems for JIT, Fourth Shift, Minniapolis, MN
 [//]: # (1991 - 1995)
 
 Led consulting team of 3 - 8 software engineers to architect, develop and support core modules of the commercial JIT MRPII package written in Oracle Forms 3 and C and running on Unix systems.
@@ -112,9 +112,9 @@ General architect for all aspects of the JIT package, especially the modules I d
 
 Consulted on projects at major client accounts: Columbus McKinnon, Woodward Governor, Boeing Georgia, TRW Space and Engineering Group, TRW Systems Integration Group, Delco Remey, General Dynamics, GE, GTE, Sulzer Intermedics,, Hughes Space and Communictions, Litton Laser, Tropitone Furniture, Westland Engineering, Avial.
 
-## Execution Management Systems
+### Execution Management Systems
 
-### Canright Systems, Portland OR
+#### Canright Systems, Portland OR
 [//]: # (1988-1991)
 
 Data collection, monitoring and control applications.  Consulting and development for production tracking and control.  Used a mix of C, Unix, RS232 and Oracle.  Interface with sensors, counters and triggers as well as the API for printers and other devices.
@@ -124,9 +124,9 @@ Clients included:
 - Stanislaus Food Products - Automated Receiving and Inventory Application.
 - Entergy - Automated Data Collection, monitoring and alert Management Application.
 
-## V.P. Data Collection Products
+### V.P. Data Collection Products
 
-### CIMS, Chicago IL
+#### CIMS, Chicago IL
 [//]: # (1986-1988)
 
 Produced and supported data collection and controller products and interfaces marketed in the US and Europe using C, Oracle, and two non-relational databases (ISAM and MDBS database management system).
@@ -141,9 +141,9 @@ Designed and developed a Warehouse Management System for Michigan Fruit Canners 
 
 Contributed to the conception and architecture JIT, a new MRPII package.
 
-## Manufacturing Systems Applications Developer
+### Manufacturing Systems Applications Developer
 
-### QMRP, Qantel, Hayward CA
+#### QMRP, Qantel, Hayward CA
 [//]: # (1982-1986)
 
 Key contributor to the (then) very successful commercial MRPII package.
