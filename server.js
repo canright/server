@@ -16,11 +16,12 @@ const morgan = require('morgan'),
   dyn     = require('./lib/dyn'),
   root    = require('./lib/root'),
   cli     = require('./lib/cli'),
+  pinger  = require('./lib/pinger'),
   pkg     = require('./package.json');
 
 const log = s => console.log(s),
   logto   = cli.log,
-  LOGGER  = ':aid :vid :dat :status :method :remote-addr :url',
+  LOGGER  = ':aid :vid :dat :status :method :remote-addr :host :url',
   ok      = (res, title, body) => out.reply(res, out.htmlPage(title, body));
 
 (() => {
@@ -38,6 +39,10 @@ const log = s => console.log(s),
   app.use(doms.confirm);     // init req.dom
   morgan.token('aid', function(req) {return req.dom.aid});
   morgan.token('vid', function(req) {return req.dom.vid});
+  morgan.token('host', function(req) {return req.hostname});
+  morgan.token('path', function(req) {return req.path});
+  morgan.token('rqst', function(req) {return req.protocol + '://' + req.hostname + req.path});
+
   var pad = (k) => (k<10) ? '0' + k : '' + k;
   morgan.token('dat', function(req) {
     var d = new Date();
