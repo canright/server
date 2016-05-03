@@ -16,6 +16,7 @@ const morgan = require('morgan'),
   dyn     = require('./lib/dyn'),
   root    = require('./lib/root'),
   cli     = require('./lib/cli'),
+  pinger  = require('./lib/pinger'),
   pkg     = require('./package.json');
 
 const log = s => console.log(s),
