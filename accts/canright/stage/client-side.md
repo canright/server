@@ -9,13 +9,11 @@ Built (and use) a new administration framework to maintain data on a MS Sql Serv
 
 ### Client-side Javascript Tools or Frameworks:
 
-anglular 1: I am familiar (but not fresh).  My deepest dive was to prototype a collaborative document manager.
+angular: Developed a prototype of a collaborative document manager with angular 1.  Familiar, but not fresh.
 
-react: I am re-factoring my library of client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
+react: re-factoring client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
 
-I am fmailiar with most, but expert with none of the frameworks.  I am comfortable focusing on any of them.
-
-My experience is with the core tools - arguably the best foundation for any of the frameworks.
+Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
 
 ### Website Design
 - My clients are designers!
