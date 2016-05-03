@@ -16,8 +16,8 @@
   <div id="blog">
     <header>
       <a href="/">
-        <b>Jim</b>
-        <img id="logo" alt="canright" src="{{site.logo.src}}" alt="{{site.logo.alt}}">
+        <b>{{site.firstName}}</b>
+        <img id="logo" src="{{site.logo.src}}" alt="{{site.logo.alt}}">
       </a>
       <h2>{{meta.titleA}}<br>{{meta.titleB}}</h2>
     </header>

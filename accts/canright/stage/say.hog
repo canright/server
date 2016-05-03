@@ -15,9 +15,9 @@
 </head><body>
   <div id="blog">
     <header>
-     <a href="/">
-        <b>Jim</b>
-        <img id="logo" alt="canright" src="{{site.logo.src}}" alt="{{site.logo.alt}}">
+      <a href="/">
+        <b>{{site.firstName}}</b>
+        <img id="logo" src="{{site.logo.src}}" alt="{{site.logo.alt}}">
       </a>
       <h2>{{titleA}}<br>{{titleB}}</h2>
     </header>

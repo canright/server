@@ -7,7 +7,7 @@
 
 - Javascript ES6/2015, Node, npm, JSON, express
 - Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
-- functional programming
+- functional programming, object oriented programming
 - TDD, mocha, assert, request
 - Agile software development and operations
 
@@ -19,9 +19,21 @@
 
 ## Client-side Technnologies
 
-- HTML5, CSS3, Less, jQuery, DOM, Ajax, AMP
-- MVC, Angular 1, React, responsive websites
-- Website design, visual Design, UI/UX, Photoshop, gimp
+HTML5, CSS, CSS3, Less, jQuery, javascript, DOM, Ajax, AMP.
+
+Responsive Website Design, visual design, user experience / interface design, photoshop.
+
+All of my portfolio sites (www.canright.net/client-side.hmd) are built with those core tools.
+
+Built (and use) an administration framework to maintain data on a MS Sql Server database.  I built this application with core tools (html5, css3, jQuery, javascript) and Slick Grid on the client side and MS IIS, ASP, Sql Server on the server side.
+
+anglular 1: I am familiar (but not fresh).  My deepest dive was to prototype a collaborative document manager.
+
+react: I am re-factoring my library of client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
+
+I am familiar with most, but expert with none of the popular frameworks (other than vanillaJS: jQuery with HTML5 and CSS3).  I am comfortable focusing on any of those frameworks.
+
+My experience is with the core tools - arguably the best foundation for leveraging any of the frameworks.
 
 ## Connected Devices / IOT
 
@@ -61,9 +73,11 @@
 
 ### Canright, Portland OR, 2011 - Present
 
-Custom website design and development with HTML5, CSS3, and jQuery / javascript - primarily architect websites due to reputation and residual benifits of marketing Websites for Architects.  Upgrade legacy acounts to be more fully responsive.
+Developing new (no-CMS) Content Management System with Node / javascript ES6 / linux / mongoDb, mySql, redis and react.
 
-Transform client database, content manager and hosting from legacy MS SQL /IIS / .Net / ASP to Linux / Node / javascript / mariaDb / react / slick grid stack.
+Transform existing content management and hosting platform with (about 100) Websites for Architects accounts to Node / javascript / linux / mySql / react / slick grid stack from legacy microsoft stack.
+
+Custom website design and development with HTML5, CSS3, javascript and jQuery - primarily responsive websites for architects.
 
 ## Websites for Architects
 
@@ -75,21 +89,17 @@ Leverages proprietary content manager oriented to portfolio (architect) websites
 
 Used Flash at first, then HTML5/jQuery to produce slide-shows, presentations, interactive thumbnail grids and other active components.
 
-## Extranet Kit
-
-### Canright Systems, Portland OR, 2004 - 2006
-
-An extranet application development framework.  Enables flexible definition and declarative configuration of extranets, intranets or content managers.
-
-Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Server, ...
-
 ## Web Database Applications Developer
 
-### Canright Systems, Portland OR, 1995 - 2004
+### Canright Systems, Portland OR, 1995 - 2006
 
 Led consulting firm with team of 4 - 12 engineers and a few management, administration and sales people.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
 
-Clients included 1 800 Reconex, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Semantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Montgomery & Graham, Soloflex, Wherenext.
+Conceived and developed an extranet application development framework.  Enables flexible definition and declarative configuration of extranets, intranets or content managers.  Used the extranet kit to effeciently deliver administration and maintenance applications for clients.
+
+Clients included 1 800 Reconex, Laika, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Symantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Montgomery & Graham, Soloflex, Wherenext.
+
+All predominantly Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Server, ...
 
 ## Senior Manufacturing Systems Analyst
 

@@ -1,5 +1,6 @@
 {
   "name": "Canright: Full Stack Software Engineer",
+  "firstName": "Jim",
   "logo": {"src": "/img/canright.gif", "alt": "Canright"},
   "styles": [
     {"css": "/style.css"}

@@ -3,41 +3,50 @@
     "aid": "canright",
     "vid": "stage",
     "db" : "json",
+    "www": true,
+    "active": true
+  },
+  "locallost": {
+    "aid": "perkins",
+    "vid": "stage",
+    "db" : "json",
     "www": false,
-    "version": "0.6.0",
-    "active" : true
+    "active": true
   },
- "canright.net": {
+  "perkins.canright.net": {
+    "aid": "perkins",
+    "vid": "stage",
+    "db" : "json",
+    "www": false,
+    "active": true
+  },
+  "canright.net": {
     "aid": "canright",
     "vid": "stage",
     "db" : "json",
     "www": true,
-    "version": "0.6.0",
-    "active" : true
+    "active": true
   },
- "www.canright.net": {
+  "www.canright.net": {
     "aid": "canright",
     "vid": "stage",
     "db" : "json",
     "www": true,
-    "version": "0.6.0",
-    "active" : true
+    "active": true
   },
- "192.168.41.173": {
+  "192.168.41.173": {
     "aid": "canright",
     "vid": "stage",
     "db" : "json",
     "www": true,
-    "version": "0.6.0",
-    "active" : true
+    "active": true
   },
   "abc.canright.net": {
     "aid": "canright",
-    "www": true,
-    "version": "0.1.0",
-    "provid": "0.0.0",
+    "vid": "stage",
     "db": "yaml",
+    "www": true,
     "root": ["index.hmd", "index.htm", "index.html", "/default.hmd", "/default.htm"],
-    "active": true
+    "active": false
   }
 }
