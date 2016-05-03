@@ -15,9 +15,9 @@
 </head><body>
   <div id="blog">
     <header>
-     <a href="/">
-        <b>Jim</b>
-        <img id="logo" alt="canright" src="{{site.logo.src}}" alt="{{site.logo.alt}}">
+      <a href="/">
+        <b>{{site.firstName}}</b>
+        <img id="logo" src="{{site.logo.src}}" alt="{{site.logo.alt}}">
       </a>
       <h2>{{titleA}}<br>{{titleB}}</h2>
     </header>
@@ -32,16 +32,16 @@
     <div id="core">
       <article>
 
+        <div id="overview" class="markdown">
+{{text}}
+        </div>
+
         <h3>{{portfolioWebsites.title}}</h3>
         <ul>
 {{#portfolioWebsites.list}}
           <li><a href="{{href}}" target="_blank">{{label}}</a> - {{location}}</li>
 {{/portfolioWebsites.list}}
         </ul>
-
-        <div id="overview" class="markdown">
-{{text}}
-        </div>
 
       </article>
     </div>
