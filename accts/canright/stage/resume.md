@@ -7,7 +7,7 @@
 
 ### Core Javascript Capabilities
 
-- Javascript ES6/2015, Node, npm, JSON, express
+- Javascript ES6/2015, Node, NPM, JSON, Express
 - Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
 - Functional Programming, Object Oriented programming
 - TDD, mocha, assert, request, Asynchronous processing
@@ -54,7 +54,7 @@ Custom responsive website design and development with HTML5, CSS3, javascript an
 
 Developing new CMS with Node / javascript ES6 / linux / mongoDb, mySql, redis and react.
 
-Transform cms/hosting platform with (about 100) Websites for Architects accounts to Node / javascript / linux / mySql / react / slick grid stack from legacy microsoft stack.
+Transform cms & hosting platform with (about 100) Websites for Architects accounts to Node / javascript / linux / mySql / react / slick grid stack from legacy Microsoft stack.
 
 ### Websites for Architects
 
@@ -70,9 +70,9 @@ Built content manager oriented to portfolio (architect) websites to maintain the
 
 ##### Canright Systems, Portland OR, 1995 - 2006
 
-Led 'Dot com' consulting firm.  Architected, designed, developed and supported custom web database applications for entrepeneural 'dot-coms' and established 'brick and mortars'.
+Led successful consulting firm.  Architected, designed, developed and supported custom web database applications for entrepreneurial  'dot-coms' and established 'brick and mortars'.
 
-Conceived and developed an application development framework featuring declarative configuration of extranets, intranets or content managers.  Used the extranet kit to effeciently deliver administration and maintenance portals for clients.
+Conceived and developed an application development framework featuring declarative configuration of extranets, intranets or content managers.  Used the extranet kit to efficiently deliver administration and maintenance portals for clients.
 
 Clients included 1 800 Reconex, Laika, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Symantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Montgomery & Graham, Soloflex, Wherenext.
 
