@@ -1,8 +1,8 @@
 # Jim Canright
 
-### Full Stack Javascript Applications Developer
-### Senior Software Engineer
-### Client Side Web Applications Developer
+- Full Stack Javascript Applications Developer
+- Senior Software Engineer
+- Client Side Web Applications Developer
 
 ## Core Javascript and Client Side Technologies
 
@@ -23,11 +23,13 @@ Built (and use) an administration framework to maintain data on an MS Sql Server
 
 ### Client-side Frameworks
 
-angular: Developed a prototype of a collaborative document manager with angular 1 early last year.
+angular: Developed a prototype of a collaborative document manager with angular 1.
 
-react: Re-factoring client side javascript components (slide-show, panel animation, navigation grid, ...) for react.
+react: Re-factoring client side javascript components (slide-shows, nav grids, ...) for react.
 
-Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
+Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.
+
+tools  - the best foundation for any framework.
 
 ### Platforms & Background Capabilities
 

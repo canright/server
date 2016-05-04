@@ -29,11 +29,11 @@ All of my portfolio sites (www.canright.net/client-side.hmd) are built with thos
 
 Built (and use) an administration framework to maintain data on a MS Sql Server database.  I built this application with core tools (html5, css3, jQuery, javascript) and Slick Grid on the client side and MS IIS, ASP, Sql Server on the server side.
 
-angular: Developed a prototype of a collaborative document manager with angular 1 early last year.
+angular: Developed a prototype of a collaborative document manager with angular 1.
 
-react: Actively using and learning. Re-factoring client side javascript tools (slide-show, scroll, navigation grid, ...) for react.
+react: Re-factoring client side javascript components (slide-shows, navigation grid, active panels, ...) for react.
 
-Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
+Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.
 
 ### Connected Devices / IOT
 
