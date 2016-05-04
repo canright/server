@@ -2,23 +2,30 @@
 
 ### Full Stack Javascript Applications Developer
 ### Senior Software Engineer
+### Client Side Web Applications Developer
 
-## Javascript and Client Side Capabilities
+## Core Javascript and Client Side Technologies
 
-- Javascript ES6/2015, jQuery, node, npm, JSON, express
-- HTML5, CSS3, DOM, ajax, responsive website design
+- Javascript ES6/2015, jQuery, JSON, DOM
+- HTML5, CSS CSS3, less, ajax
+- Responsive website design
+- Functional Programming, Object Oriented programming
+- Node, NPM, Express
 - Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
-- functional programming, object oriented programming
-- TDD, mocha, assert, request
-- Agile software development and operations.
-- visual design, user experience, interface design, photoshop.
-- [Portfolio](http://canright.net/client-side.hmd) built with above tools.
+- TDD, Mocha, Assert, Request
+- Agile software development and operations
+- visual design, photoshop
+- user experience, interface design
+
+[My Portfolio Sites](http://canright.net/client-side.hmd) are built with these technologies.
 
 Built (and use) an administration framework to maintain data on an MS Sql Server database.  I built this application with core tools (html5, css3, jQuery, javascript) and Slick Grid on the client side (and MS IIS, ASP, Sql Server on the server side).
 
-angular: Developed a prototype of a collaborative document manager with angular 1.  Familiar, but not fresh.
+### Client-side Frameworks
 
-react: re-factoring client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
+angular: Developed a prototype of a collaborative document manager with angular 1 early last year.
+
+react: Re-factoring client side javascript components (slide-show, panel animation, navigation grid, ...) for react.
 
 Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
 
@@ -37,10 +44,6 @@ Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar wit
 - Connected devices / IOT, Raspberry PI
 - Custom web database busines applications, intranets, content managers
 - Enterprise and execution systems
-
-##
-
-------
 
 ## Employment / Project History
 

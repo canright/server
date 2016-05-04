@@ -4,7 +4,7 @@
   "titleA": "Client",
   "titleB": "Side",
   "portfolioWebsites": {
-    "title": "Selected Responsive Websites:",
+    "title": "Selected Responsive Websites",
     "list": [
       {"href": "http://amdarchitects.com"        , "label": "AMDA"                   , "location": "Denver, CO"},
       {"href": "http://campandcamp.com"          , "label": "Camp & Camp Architects" , "location": "Walnut Creek, CA"},

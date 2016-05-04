@@ -1,23 +1,28 @@
 
-### Expert with core client side tools:
-- HTML5, CSS
-- jQuery, Javascript, DOM
-- Ajax, CSS3, less
-- All of my portfolio sites (below) are built with those core tools.
+### Client Side Web Applications Developer
 
-Built (and use) a new administration framework to maintain data on a MS Sql Server database.  This application uses the core tools and Slick Grid on the client side.  (This is an MS IIS, ASP, Sql Server project on the server side.
+Expert with core client side technologies:
 
-### Client-side Javascript Tools or Frameworks:
+- Javascript ES6/2015, jQuery, JSON, DOM
+- HTML5, CSS CSS3, less, ajax
+- Responsive website design
+- Functional Programming, Object Oriented programming
+- Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
+- TDD, mocha, assert, request
+- Agile software development and operations
+- visual design, photoshop
+- user experience, interface design
 
-angular: Developed a prototype of a collaborative document manager with angular 1.  Familiar, but not fresh.
+My Portfolio Sites (shown below) are built with these technologies.
 
-react: re-factoring client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
+Built (and use) a new administration packaged database grid framework to maintain data on a MS Sql Server database.  This application is built with core technologies and Slick Grid on the client side.  (This is an MS IIS, ASP, Sql Server project on the server side).
+
+### Client-side Frameworks
+
+angular: Developed a prototype of a collaborative document manager with angular 1 early last year.
+
+react: Re-factoring client side javascript components (slide-show, scroll, navigation grid, ...) with react.
 
 Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
 
-### Website Design
-- I design for designers.  That says a lot.
-- user experience / interface design
-- photoshop
-
-### [Resume for Client-Side Design and Development](/resume-clientside.hmd)
+### [Resume for Client-Side Design and Development](/resume-clientside.hmd) [(PDF)](/resume-clientside.pdf)

@@ -1,9 +1,11 @@
 ## Core Capabilities:
 
 - Javascript ES6/2015, JSON
-- Node 4 & 5, npm, express
+- Node, npm, express, git
 - Typescript, eslint, jslint
 - Functional Programming
+- Object Oriented programming
 - TDD, mocha, assert, request
-- Linux, bash, git, vi, ssh
+- Linux, cli, bash, vi(m), ssh
+- Asynchronous processing
 - Agile software development and operations

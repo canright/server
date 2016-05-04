@@ -1,27 +1,27 @@
 # Jim Canright
 
-- Full Stack Javascript Applications Developer
-- Senior Software Engineer
+### Full Stack Javascript Applications Developer
+### Senior Software Engineer
 
 ## Capabilities and Technologies
 
-### Core Javascript Ecosystem
+### Core Javascript Capabilities
 
 - Javascript ES6/2015, Node, npm, JSON, express
 - Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
-- functional programming, object oriented programming
-- TDD, mocha, assert, request
+- Functional Programming, Object Oriented programming
+- TDD, mocha, assert, request, Asynchronous processing
 - Agile software development and operations
 
 ### Database
 
 - SQL, Relational Database Architecture, ERD/Erwin
 - mySql, mariaDb, MS Sql Server, Oracle, MongoDb, Redis
-- REST, JSON, YAML, XML
+- REST, JSON, XML
 
 ### Client Side
 
-HTML5, CSS, CSS3, Less, jQuery, javascript, DOM, Ajax, AMP.
+HTML5, CSS, CSS3, Less, jQuery, DOM, Ajax, AMP
 
 Responsive Website Design, visual design, user experience / interface design, photoshop.
 
@@ -29,11 +29,11 @@ All of my portfolio sites (www.canright.net/client-side.hmd) are built with thos
 
 Built (and use) an administration framework to maintain data on a MS Sql Server database.  I built this application with core tools (html5, css3, jQuery, javascript) and Slick Grid on the client side and MS IIS, ASP, Sql Server on the server side.
 
-angular: familiar (but not fresh).  My deepest dive was to prototype a collaborative document manager with angular 1.
+angular: Developed a prototype of a collaborative document manager with angular 1 early last year.
 
-react: re-factoring client side javascript tools (slide-show, scroll, navigation grid, ...) to use react.
+react: Actively using and learning. Re-factoring client side javascript tools (slide-show, scroll, navigation grid, ...) for react.
 
-I am expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM) and familiar with most, but expert with none of the popular frameworks.  My experience is with the core tools - the best foundation for any framework.
+Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
 
 ### Connected Devices / IOT
 
