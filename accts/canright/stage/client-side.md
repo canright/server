@@ -16,7 +16,7 @@ react: re-factoring client side javascript tools (slide-show, scroll, navigation
 Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
 
 ### Website Design
-- My clients are designers!
+- I design for designers.  That says a lot.
 - user experience / interface design
 - photoshop
 

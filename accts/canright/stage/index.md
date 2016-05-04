@@ -40,7 +40,7 @@ I am familiar with most, but expert with none of the frameworks.  I am comfortab
 My experience is with the core tools - arguably the best foundation for any of the frameworks.
 
 ### Website Design
-- I design for designers.  Most of my clients are designers!
+- I design for designers - that says alot.
 - user experience / interface design
 - photoshop
 - My portfolio speaks my creative design capabilities.

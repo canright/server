@@ -6,13 +6,6 @@
     "www": true,
     "active": true
   },
-  "locallost": {
-    "aid": "perkins",
-    "vid": "stage",
-    "db" : "json",
-    "www": false,
-    "active": true
-  },
   "perkins.canright.net": {
     "aid": "perkins",
     "vid": "stage",
@@ -41,7 +34,7 @@
     "www": true,
     "active": true
   },
-  "abc.canright.net": {
+  "notready.canright.net": {
     "aid": "canright",
     "vid": "stage",
     "db": "yaml",

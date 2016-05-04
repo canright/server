@@ -1,7 +1,7 @@
 # Jim Canright
 
-- Full Stack Javascript Applications Developer
-- Senior Software Engineer
+### Full Stack Javascript Applications Developer
+### Senior Software Engineer
 
 ## Javascript and Client Side Capabilities
 
@@ -12,7 +12,7 @@
 - TDD, mocha, assert, request
 - Agile software development and operations.
 - visual design, user experience, interface design, photoshop.
-- [Portfolio](canright.net/client-side.hmd) built with above tools.
+- [Portfolio](http://canright.net/client-side.hmd) built with above tools.
 
 Built (and use) an administration framework to maintain data on an MS Sql Server database.  I built this application with core tools (html5, css3, jQuery, javascript) and Slick Grid on the client side (and MS IIS, ASP, Sql Server on the server side).
 
@@ -37,6 +37,10 @@ Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar wit
 - Connected devices / IOT, Raspberry PI
 - Custom web database busines applications, intranets, content managers
 - Enterprise and execution systems
+
+##
+
+------
 
 ## Employment / Project History
 
@@ -74,8 +78,8 @@ Microsoft stack: .Net, Sql Server, IIS, c#, asp, XML, Visual Basic, Windows Serv
 
 - jim@canright.net
 - 503.267.8291
-- [canright.net](http://www.canright.net)
-- [github.com/canright](http://github.com/canright)
+- [resume website](http://www.canright.net)
+- [open source](http://github.com/canright)
 - 4232 SE Hawthorne Blvd., Portland, OR 97215
 - BSCS, U.C. Berkeley
 - Briggs Myer: INTP
