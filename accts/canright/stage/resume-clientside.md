@@ -4,7 +4,7 @@
 - Senior Software Engineer
 - Client Side Web Applications Developer
 
-## Core Javascript and Client Side Technologies
+## Core Client Side Javascript Technologies
 
 - Javascript ES6/2015, jQuery, JSON, DOM
 - HTML5, CSS CSS3, less, ajax
