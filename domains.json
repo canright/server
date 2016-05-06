@@ -6,13 +6,6 @@
     "www": true,
     "active": true
   },
-  "perkins.canright.net": {
-    "aid": "perkins",
-    "vid": "stage",
-    "db" : "json",
-    "www": false,
-    "active": true
-  },
   "canright.net": {
     "aid": "canright",
     "vid": "stage",
@@ -32,6 +25,13 @@
     "vid": "stage",
     "db" : "json",
     "www": true,
+    "active": true
+  },
+  "perkins.canright.net": {
+    "aid": "perkins",
+    "vid": "stage",
+    "db" : "json",
+    "www": false,
     "active": true
   },
   "notready.canright.net": {
