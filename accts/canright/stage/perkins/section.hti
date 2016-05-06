@@ -1,0 +1,10 @@
+{
+  "name": "Perkins",
+  "title": "A blue mearle cardigan welsh corgi male puppy",
+  "libraries": [
+    {"type": "text/javascript", "src": "https://fb.me/react-15.0.1.js"},
+    {"type": "text/javascript", "src": "https://fb.me/react-dom-15.0.1.js"},
+    {"type": "text/javascript", "src": "https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"},
+    {"type": "text/babel"     , "src": "/perkins/blog.js"}
+  ]
+}
