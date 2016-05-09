@@ -1,44 +1,45 @@
 body {
-  background-color: #333;
-  color: #FFF;
+  background-color: #333333;
+  color: #ffffff;
   width: 96%;
   margin: 8px auto;
   text-align: left;
 }
 #blog {
-  color: #310;
+  color: #331100;
   width: 100%;
+  min-width: 580px;
   height: auto;
 }
 a {
   text-decoration: none;
-  color: #FA0;
+  color: #ffaa00;
 }
 a:hover {
-  color: #06F;
+  color: #0066ff;
 }
 .base {
   font-family: sans-serif;
   margin: 1px 9%;
   padding: 1% 9%;
-  border: 2px solid #333;
+  border: 2px solid #333333;
 }
 .base a {
-  color: #FA0;
+  color: #ffaa00;
 }
 header,
 article {
   font-family: sans-serif;
   margin: 1px 9%;
   padding: 1% 9%;
-  border: 2px solid #333;
-  background-color: #EAF3FF;
-  color: #310;
+  border: 2px solid #333333;
+  background-color: #eaf3ff;
+  color: #331100;
   display: block;
 }
 header a,
 article a {
-  color: #FA0;
+  color: #ffaa00;
 }
 header {
   position: relative;
@@ -46,10 +47,10 @@ header {
   border-top-right-radius: 12px;
 }
 header h2 {
-  color: #310;
+  color: #331100;
   position: absolute;
   top: 0;
-  right: 36px;
+  right: 9%;
   text-align: right;
   padding: 0;
 }
@@ -75,51 +76,51 @@ article ul {
   list-style: none;
 }
 article li {
-  color: #310;
+  color: #331100;
   margin-left: 0;
   padding-left: 0;
 }
 article li a {
   margin-left: 0;
   padding-left: 0;
-  color: #FA0;
+  color: #ffaa00;
   font-weight: bold;
 }
 article li:before {
   content: "•  ";
-  color: #9BD;
+  color: #99bbdd;
   font-size: 20px;
 }
 article h3 a {
-  color: #06F;
+  color: #0066ff;
 }
 article h3 a:hover {
-  color: #FA0;
+  color: #ffaa00;
 }
 nav,
 footer {
   font-family: sans-serif;
   margin: 1px 9%;
   padding: 1% 9%;
-  border: 2px solid #333;
-  background-color: #06F;
-  color: #FFF;
+  border: 2px solid #333333;
+  background-color: #0066ff;
+  color: #ffffff;
 }
 nav a,
 footer a {
-  color: #FA0;
+  color: #ffaa00;
 }
 nav a,
 footer a {
-  color: #FFF;
+  color: #ffffff;
 }
 nav a:hover,
 footer a:hover {
-  color: #FA0;
+  color: #ffaa00;
 }
 nav ul,
 footer ul {
-  padding-left: 0;
+  padding: 0;
   margin: 0;
 }
 nav li,

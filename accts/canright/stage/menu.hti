@@ -2,7 +2,6 @@
   "list": [
     {"href": "/core-capabilities.hmd",  "label": "Core Capabilities",  "title": "Core Target Capabilities"},
     {"href": "/server-side.hmd",  "label": "Server Side",  "title": "Server Side Capabilities, Open Source Javascript"},
-    {"href": "/client-side.hmd",  "label": "Client Side",  "title": "Portfolio of Responsive Websites"},
-    {"href": "/iot.hmd",  "label": "IOT",  "title": "Event Driven Connected Devices"}
+    {"href": "/client-side.hmd",  "label": "Client Side",  "title": "Portfolio of Responsive Websites"}
   ]
 }

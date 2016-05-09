@@ -24,6 +24,7 @@ body {
 #blog {
   color: @mark;
   width: 100%;
+  min-width:580px;
   height: auto;
 }
 
@@ -51,7 +52,7 @@ header {
   position:relative;
   border-top-left-radius: @rad;
   border-top-right-radius: @rad;
-  h2 {color: @mark; position:absolute; top:0; right:36px; text-align:right; padding:0}
+  h2 {color: @mark; position:absolute; top:0; right:@hgut; text-align:right; padding:0}
   a b {position:absolute}
 }
 footer {
@@ -89,7 +90,7 @@ nav, footer  {
   color: @loud;
   a     {color: @loud}
   a:hover {color: @gold}
-  ul    {padding-left: 0; margin:0}
+  ul    {padding: 0; margin:0}
   li    {display: inline; list-style: none; margin-right: 24px}
 }
 
