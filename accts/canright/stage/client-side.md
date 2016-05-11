@@ -4,25 +4,30 @@
 Expert with core client side technologies:
 
 - Javascript ES6/2015, jQuery, JSON, DOM
-- HTML5, CSS CSS3, less, ajax
+- HTML5, CSS CSS3, Less, ajax
+- Typescript, ESLint, Linux, cli, bash, git, vi(m), ssh
+- TDD, Mocha, Jasmine/Jest, Assert, Request
+- FP, OOP, Agile devops
 - Responsive website design
-- Functional Programming, Object Oriented programming
-- Typescript, eslint, jslint, linux, cli, bash, git, vi(m), ssh
-- TDD, mocha, assert, request
-- Agile software development and operations
-- visual design, photoshop
-- user experience, interface design
+- Visual design, Photoshop, UI/UX
 
-My Portfolio Sites (shown below) are built with these technologies.
+[Portfolio](http://canright.net/client-side.hmd) of responsive websites built with these technologies.
 
-Built (and use) a new administration packaged database grid framework to maintain data on a MS Sql Server database.  This application is built with core technologies and Slick Grid on the client side.  (This is an MS IIS, ASP, Sql Server project on the server side).
+Built content manager database grid framework to maintain DB on MS Sql Server with HTML5, CSS, javascript/jQuery and SlickGrid on the client side.
+
+(In production, it is still an MS IIS, ASP, Sql Server project on the server side).
+
+Currently re-factoring application to port server side to Linux, node, express, mongoDb, and mariaDb and to leverage ES6 and React for the client side.
 
 ### Client-side Frameworks
 
-angular: Developed a prototype of a collaborative document manager with angular 1 early last year.
+**REACT**, JSX, Webpack, Flux. Isomorphic react with node.
 
-react: Re-factoring client side javascript components (slide-show, scroll, navigation grid, ...) with react.
+angular: Developed a prototype of a collaborative document manager with angular 1 early last year.  Investigating Angular 2.
 
-Expert with vanillaJS (HTML5, CSS3, jQuery, javascript, DOM, MVC).  Familiar with some, but expert with none of the popular frameworks.  Experience is with the core tools - the best foundation for any framework.
+Current React projects include:
+
+- Admin portal for content manager with Node, Express, REST, mongoDb and mariaDb.
+- Re-factoring client side javascript components (slide-show, scroll, navigation grid, ...).
 
 ### [Resume for Client-Side Design and Development](/resume-clientside.hmd) [(PDF)](/resume-clientside.pdf)

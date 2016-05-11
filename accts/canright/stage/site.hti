@@ -1,7 +1,7 @@
 {
   "name": "Canright: Full Stack Software Engineer",
   "firstName": "Jim",
-  "logo": {"src": "/img/canright.gif", "alt": "Canright"},
+  "logo": {"src": "/img/canright.gif", "alt": "Canright", "height": 47, "width": 181},
   "styles": [
     {"css": "/style.css"}
   ],

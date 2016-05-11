@@ -8,7 +8,7 @@ body {
 #blog {
   color: #331100;
   width: 100%;
-  min-width: 580px;
+  min-width: 480px;
   height: auto;
 }
 a {
@@ -68,7 +68,7 @@ article {
   padding-top: 8px;
 }
 article * {
-  max-width: 480px;
+  max-width: 680px;
 }
 article ul {
   margin: 0;

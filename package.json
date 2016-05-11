@@ -6,12 +6,10 @@
   "author": "Jim Canright",
   "license": "MIT",
   "main": "server.js",
-
   "repository": {
     "type": "git",
     "url": "git://github.com/canright-server.git"
   },
-
   "keywords": [
     "multi-site server",
     "multi-account server",
@@ -22,7 +20,6 @@
     "es6/2015",
     "typescript"
   ],
- 
   "scripts": {
     "style": "lessc accts/canright/stage/style.less accts/canright/stage/style.css",
     "lint": "eslint *.js, lib/*.js",
@@ -30,23 +27,22 @@
     "start": "npm run build && node server",
     "test": "mocha"
   },
-
- "dependencies": {
+  "dependencies": {
     "body-parser": "*",
     "cookie-parser": "*",
-    "morgan": "*",
-    "serve-favicon": "*",
-    "express": "*",
     "debug": "*",
+    "express": "*",
     "hogan": "*",
     "less": "*",
     "lodash": "*",
     "mongodb": "*",
-    "request": "*"
+    "morgan": "*",
+    "react": "^15.0.2",
+    "request": "*",
+    "serve-favicon": "*"
   },
-
   "devDependencies": {
+    "grunt": "*",
     "mocha": "*"
   }
-
 }
