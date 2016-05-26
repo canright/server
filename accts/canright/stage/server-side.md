@@ -50,7 +50,7 @@
 - Typescript, Javascript ES6, nodejs, json, less.
 - Data Persisted in json, yaml, mongoDb, redis, mariaDb
 - REST account dictionary lookups.
-- This module is still private.
+- [open source on github](https://github.com/canright/server)
 
 ## CLI for Node Server
 
