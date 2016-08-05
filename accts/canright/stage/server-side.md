@@ -1,35 +1,34 @@
 # Server Side Capabilities
 
-## Database Technologies
+### Database Technologies
 
-- Relational Database Architect
-- ERD, Erwin
-- SQL
-- MS Sql Server
-- MariaDb, mySql
-- Oracle, DBA
-- MongoDb, Redis, ISAM
+- Relational Database Architect, ERD, Erwin
+- SQL, Relational Databases, MS Sql Server, MariaDb, mySql, Oracle, DBA
+- Non-relational Databases, Redis, ISAM
 - REST, JSON, YAML, XML
 
-## Application Domains
+### Cloud Technologies
 
+- **AWS**
+- Lambda, API Gateway
+- AWS DynamoDB, S3, CLI
+- REST, JSON, JWT, Auth0
+
+### Application Domains
 - Custom web database business applications
 - Intranets, Extranets, Content management systems
 - Execution Management Systems
 - Enterprise, Manufacturing, Distribution, Logistics Applications
 - Responsive Websites, Portfolio Websites
 
-## Platforms
+### Platforms
 
 - Linux, Unix, Ubuntu 16.04
 - C, LAMP, apache, php
-- MS Windows Server
-- SQL Server, IIS
-- .net, c#
-- ASP, vbscript, jscript
+- .NET, C#, MS Windows Server, SQL Server, IIS, ASP, vbscript, jscript
 - I manage a rackspace with two Ubuntu Server 16.04 servers (one of which serves this website) and two Windows Servers - one with IIS and the other with Sql Server.
 
-## Background Capabilities
+### Background Capabilities
 
 - Application architecture, design & development
 - Requirements & Design Specifications
@@ -41,25 +40,25 @@
 - Agile team / Product / Project / Client account / Business unit management
 - Webmaster, Server Administration (Windows Server & Linux)
 
-## Canright Server
+### Canright Server
 
 - This site (canright.net) is served directly by this module.
 - Lean noCMS multi-account website server
 - Server-side hogan templating.
 - Serves skinned markdown pages (this page is that - view page source to see markdown which is rendered client-side).
 - Typescript, Javascript ES6, nodejs, json, less.
-- Data Persisted in json, yaml, mongoDb, redis, mariaDb
+- Data Persisted in json, redis, mariaDb
 - REST account dictionary lookups.
 - [open source on github](https://github.com/canright/server)
 
-## CLI for Node Server
+### CLI for Node Server
 
 - Stub CLI module for a node server.
 - Typescript, Javascript ES6, nodejs, express, npm, ...
 - pause & resume log stream to stdio.
 - [open source on github](https://github.com/canright/cli)
 
-## DNS Lokups with REST
+### DNS Lokups with REST
 
 - REST DNS lookups.
 - Javascript ES6, nodejs, express, git, npm, ...

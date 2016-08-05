@@ -8,7 +8,7 @@ A lean web application server framework with support for:
 - server side templated page server with compiled and cached moustache templates.
 - client side agnostic server - supports all client side frameworks and libraries.
 - wrapped markdown file server.
-- supports data as json (filesystem), mariaDb/mySql, mongoDb or Redis.
+- supports data serialized in the filesystem as JSON or in mariaDb/mySql, mongoDb or Redis data repositories.
 - static file server.
 
 ## Account Configuation

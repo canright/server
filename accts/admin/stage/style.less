@@ -1,0 +1,98 @@
+@spac: #333;
+@base: #EAF3FF;
+@bull: #9BD;
+@gold: #FA0;
+@blue: #06F;
+@port: #765;
+@mark: #310;
+@loud: #FFF;
+@hgut: 9%;
+@vspa: 1px;
+@vgut: 1%;
+@rad:  12px;
+
+@bord: 2px;
+
+body {
+  background-color: @spac;
+  color: @loud;
+  width: 96%;
+  margin: 8px auto;
+  text-align: left;
+}
+
+#blog {
+  color: @mark;
+  width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color:@gold
+}
+a:hover {color: @blue}
+
+.base {
+  font-family: sans-serif;
+  margin:  @vspa @hgut;
+  padding: @vgut @hgut;
+  border: @bord solid @spac;
+  a {color: @gold}
+}
+
+header, article {
+  .base;
+  background-color: @base;
+  color: @mark;
+  display: block;
+}
+header {
+  position:relative;
+  border-top-left-radius: @rad;
+  border-top-right-radius: @rad;
+  h2 {color: @mark; position:absolute; top:0; right:36px; text-align:right; padding:0}
+  a b {position:absolute}
+}
+footer {
+  border-bottom-left-radius: @rad;
+  border-bottom-right-radius: @rad;
+  padding-bottom:40px;
+  margin-bottom:40px
+}
+
+article {
+  padding-bottom:48px;
+  padding-top:8px;
+  * {max-width:480px}
+  ul {margin:0; padding:0; list-style:none}
+  li {
+    color:@mark;
+    margin-left:0; padding-left:0;
+    a {
+      margin-left:0; padding-left:0;
+      color: @gold; font-weight:bold
+    }
+  }
+  li:before {
+    content: "•  ";
+    color: @bull;
+    font-size:20px;
+  }
+  h3 a {color: @blue}
+  h3 a:hover {color: @gold}
+}
+
+nav, footer  {
+  .base;
+  background-color: @blue;
+  color: @loud;
+  a     {color: @loud}
+  a:hover {color: @gold}
+  ul    {padding-left: 0; margin:0}
+  li    {display: inline; list-style: none; margin-right: 24px}
+}
+
+#logo {
+  margin-top: 16px
+}

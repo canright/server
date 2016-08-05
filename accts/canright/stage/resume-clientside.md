@@ -42,7 +42,7 @@ Microsoft stack: **.Net, Sql Server, IIS, C#, ASP, XML, Visual Basic, Windows Se
 
 - Javascript ES6/2015, JSON, Node, NPM, Express
 - Typescript, ESLint, Linux, cli, bash, git, vi(m), ssh
-- TDD, Mocha, Jasmine/Jest, Assert, Request
+- TDD, Mocha, Chai, Supertest, Request, Assert, Jasmine/Jest
 - FP, OOP, Agile devops, asynch, REST
 - React, JSX, Webpack, Flux, Isomorphic react with node
 - jQuery, DOM, Griddle, SlickGrid, XML, Ajax

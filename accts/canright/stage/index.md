@@ -5,36 +5,32 @@
 #### Full Stack Javascript Applications Developer
 #### Senior Software Engineer
 
-## [Core Technologies](/core-capabilities.hmd)
+## [Core Capabilities](/core-capabilities.hmd)
 
-**Javascript ES6/2015**, JSON, Typescript, git, npm, linux, bash, vim
+**Javascript ES6/2015**, **Functional Programming**, JSON, Lodash, Typescript, OOP
 
-TDD, Mocha, Jasmine/Jest, Assert, Request, ESLint, FP, OOP, Agile devops, asynch, REST
+**REST**: JWT, OAuth 2, Auth0
 
-## [Server Side Capabilities](/server-side.hmd)
+**TDD**: Mocha, Chai, Supertest, assert, request, eslint
 
-**Node** 4 & 6, NPM, Express
+**GIT**, **NPM**, **Linux**: cli, bash, vi/vim, ssh, devops, agile, markdown
 
-**Database Technologies**: SQL, Database Architect, erd/erwin, MS Sql Server, Oracle, ERD/Erwin, mySql/mariaDb, MongoDb, Redis, REST, JSON, XML
+## [Server Side Technologies](/server-side.hmd)
 
-**Application Domains**: Execution Management Systems, Enterprise Applications, Web Database Applications, Intranets / Extranets, Responsive Websites, Webmaster, Server Administration
+**Node.js (LTS & Current)**, Express
 
-**Platforms and Background Technologies**: Linux, Ubuntu, bash, vim, C, LAMP, asp, .net, c#, MS Server, c#, IIS, MS Sql, vbscript, markdown, templating, handlebars
+**AWS**: Lambda, CLI, S3, API Gateway, DynamoDB
+
+**Database**: SQL, Database architect, erd/Erwin, relational and non-relational databases, MS Sql Server, Oracle, MySql / MariaDb, XML, MongoDb, Redis
+
+**Application Domains**: eCommerce, execution management systems, enterprise applications, web database applications, intranets / extranets, responsive websites, webmaster, server administration
+
+**Platforms and Background Technologies**: Ubuntu, C, LAMP, asp, .net, c#, Windows Server, IIS, MS Sql, vbscript, templating, handlebars
 
 ## [Client Side Capabilities](/client-side.hmd)
 
-Expert with vanillaJS (**HTML5, CSS3, javascript, DOM**) and **jQuery**.
+**HTML5, CSS, CSS3, javascript, DOM, jQuery**, Less, markdown, Ajax, Fetch
 
-**REACT**, JSX, Flux. Isomorphic React, Jasmine/Jest, Griddle.
+**REACT**, JSX, Webpack, Flux, angular
 
-angular: Developed a prototype of a collaborative document manager with angular 1 early last year.
-
-Look at my [portfolio](http://canright.net/client-side.hmd) of responsive websites.
-
-Built (and continue to use) a database grid front end to implement a content management system talking to a database through MS IIS, ASP, SQL.
-
-## [Connected Devices / IOT](/iot.hmd)
-
-- Event driven applications, 'real-time' asynch apps systems
-- Production controllers, terminal and printer interfaces
-- Digital I/O on Raspberry Pi with Node
+[**Portfolio of responsive websites: canright.net/client-side.hmd**](/client-side.hmd)

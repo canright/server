@@ -68,17 +68,25 @@ article {
   padding-bottom:48px;
   padding-top:8px;
   * {max-width: @maxWid}
-  ul {margin:0; padding:0; list-style:none}
+  ul {
+    margin:0; padding:0; list-style:none;
+    counter-reset: foo;
+    display:table;
+  }
   li {
     color:@mark;
-    margin-left:0; padding-left:0;
+    margin-left:20px; padding-left:20px;
+    counter-increment: foo;
+    display: table-row;
     a {
-      margin-left:0; padding-left:0;
+/*    margin-left:20px; padding-left:20px; */
       color: @gold; font-weight:bold
     }
   }
   li:before {
-    content: "•  ";
+    content: "•   ";
+    display: table-cell;
+    width:20px;
     color: @bull;
     font-size:20px;
   }
