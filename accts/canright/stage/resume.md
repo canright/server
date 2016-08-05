@@ -15,8 +15,8 @@
 - jQuery, DOM, XML, Ajax, Fetch
 - HTML5, CSS, CSS3, Less, Markdown
 - SQL, Relational and non-Relational Databases, Redis
-- [Server Side Capabilities: canright.net/server-side.hmd](www.canright.net/server-side.hmd)
-- [Responsive Websites: canright.net/client-side.hmd](www.canright.net/client-side.hmd)
+- [Server Side Capabilities](www.canright.net/server-side.hmd)
+- [Responsive Websites](www.canright.net/client-side.hmd)
 
 [//]: # (Swagger / Open API)
 [//]: # (Redux, Angular)

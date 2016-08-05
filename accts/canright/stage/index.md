@@ -33,4 +33,4 @@
 
 **REACT**, JSX, Webpack, Flux, angular
 
-[**Portfolio of responsive websites: canright.net/client-side.hmd**](/client-side.hmd)
+[**Portfolio of responsive websites**](/client-side.hmd)
