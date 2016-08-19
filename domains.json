@@ -1,6 +1,6 @@
 {
   "localhost": {
-    "aid": "canright",
+    "aid": "reiken",
     "vid": "stage",
     "db" : "json",
     "www": true,
@@ -27,19 +27,11 @@
     "www": true,
     "active": true
   },
-  "perkins.canright.net": {
-    "aid": "perkins",
-    "vid": "stage",
-    "db" : "json",
-    "www": false,
-    "active": true
-  },
-  "notready.canright.net": {
+  "default": {
     "aid": "canright",
     "vid": "stage",
-    "db": "yaml",
+    "db" : "json",
     "www": true,
-    "root": ["index.hmd", "index.htm", "index.html", "/default.hmd", "/default.htm"],
-    "active": false
+    "active": true
   }
 }

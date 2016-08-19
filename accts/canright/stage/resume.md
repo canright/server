@@ -5,12 +5,12 @@
 
 ## Core Capabilities
 
-- Javascript: ES6/2015, JSON, Node, NPM, Express
+- Javascript: ES6/2015, JSON, Node, Express
 - AWS: Lambda, CLI, S3, API Gateway, DynamoDB
 - REST: JWT, OAuth 2, Auth0
 - React: JSX, Webpack, Flux
 - Functional Programming, Lodash
-- Typescript, OOP, Agile, Devops
+- git, NPM, Typescript, OOP, Agile, Devops
 - TDD, Mocha, Chai, Supertest, Request, Assert, ESLint
 - jQuery, DOM, XML, Ajax, Fetch
 - HTML5, CSS, CSS3, Less, Markdown
@@ -26,7 +26,7 @@
 ## Background Capabilities and Technologies
 
 - HTTP, FTP, SMTP, DNS
-- Linux, CLI, bash, regix, git, vi/vim, ssh, Ubuntu 16.04
+- Linux, CLI, bash, regix, vi/vim, ssh, Ubuntu 16.04
 - ERD/Erwin, mySql / MariaDb, Sql Server, Oracles, XML, SlickGrid
 - C, Unix, LAMP, Apache, PHP
 - C#, .Net, ASP, vbScript, Jscript, ActionScript

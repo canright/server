@@ -1,6 +1,6 @@
 {
   "name": "canright-server",
-  "version": "0.6.0",
+  "version": "0.2.0",
   "description": "lean multi-acct markdown and server-side templating website server",
   "private": true,
   "author": "Jim Canright",
@@ -17,8 +17,7 @@
     "hogan server-side templates",
     "markdown server",
     "node",
-    "es6/2015",
-    "typescript"
+    "es6/2015"
   ],
   "scripts": {
     "style": "lessc accts/canright/stage/style.less accts/canright/stage/style.css",
@@ -31,13 +30,13 @@
     "body-parser": "*",
     "cookie-parser": "*",
     "debug": "*",
-    "express": "*",
+    "express": "^4.13.4",
     "hogan": "*",
     "less": "*",
     "lodash": "*",
     "mongodb": "*",
     "morgan": "*",
-    "react": "^15.0.2",
+    "react": "*",
     "request": "*",
     "serve-favicon": "*"
   },
