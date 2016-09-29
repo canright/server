@@ -16,23 +16,22 @@ const morgan = require('morgan'),
   dyn     = require('./lib/dyn'),
   root    = require('./lib/root'),
   cli     = require('./lib/cli'),
-//  pinger  = require('./lib/pinger'),
+//pinger  = require('./lib/pinger'),
   pkg     = require('./package.json');
 
 const log = s => console.log(s),
   logto   = cli.log,
-  LOGGER  = ':aid :vid :dat :status :method :remote-addr :host :url',
+  LOGGER  = `${config.FID} :aid :vid :dat :status :method :remote-addr :host :url`,
   ok      = (res, title, body) => out.reply(res, out.htmlPage(title, body));
 
 (() => {
   log(`- ${new Date().toLocaleString()}.`);
-  log(`- node version ${process.version}.`);
-  log(`- nice web server v${pkg.version}.`);
+  log(`- node ${process.version}.`);
+  log(`- server v${pkg.version}.`);
   app.set('env', 'development');
   global.appRoot = path.resolve(__dirname);
   return doms.initialize(config.DOMAINS);
 })().then(() => {
-  log(`- Initialized...`);
   app.use(parser.json());
   app.use(parser.urlencoded({ extended: false }));
   app.use(cookies());
@@ -62,7 +61,7 @@ const log = s => console.log(s),
   app.use(dyn);              // dynamic resources
   app.use(root.bubble);      // root folder request
 
-  log(`- Serving: HTTP at localhost:${config.PORT}\n`);
+  log(`- Serving Franchise ${config.FID}: HTTP at localhost:${config.PORT}\n`);
   app.listen(config.PORT);
 }).catch((err) => log(`- aborted: ${err}.`));
 
