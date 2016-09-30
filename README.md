@@ -2,8 +2,11 @@
 
 ## Feature Overview
 
-A lean web application server framework with support for:
+A lean multi-tenant web application server framework with support for:
 
+- Two levels of tenants - franchise (site designer) / account (web site).
+- Root admin may assign one or more franchise, each with one or more threads and controlling any number of accounts.
+- First level tenants (site designer)
 - multiple accounts and version snapshots and multiple domain instances per account.
 - server side templated page server with compiled and cached moustache templates.
 - client side agnostic server - supports all client side frameworks and libraries.

@@ -1,0 +1,48 @@
+<!doctype html>
+<html><head>
+  <meta charset="utf-8">
+  <title>{{meta.title}}</title>
+  <!-- hmd.hog -->
+
+{{#site.styles}}
+<link href="{{css}}" rel="stylesheet" type="text/css">
+{{/site.styles}}
+
+{{#site.libraries}}
+<script src="{{src}}"></script>
+{{/site.libraries}}
+
+</head><body>
+  <div id="blog">
+    <header>
+      <a href="/">
+        <b>{{site.firstName}}</b>
+        <img id="logo" src="{{site.logo.src}}" alt="{{site.logo.alt}}">
+      </a>
+      <h2>{{meta.titleA}}<br>{{meta.titleB}}</h2>
+    </header>
+    <nav>
+      <ul>
+{{#menu.list}}
+        <li><a href="{{href}}">{{label}}</a></li>
+{{/menu.list}}
+      </ul>
+    </nav>
+
+    <div id="core">
+      <article class="markdown">
+
+{{text}}
+
+      </article>
+    </div>
+
+    <footer>
+      <ul>
+{{#site.footer}}
+        <li><a href="{{href}}">{{label}}</a></li>
+{{/site.footer}}
+      </ul>
+    </footer>
+  </div>
+</body></html>

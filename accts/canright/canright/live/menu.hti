@@ -1,0 +1,7 @@
+{
+  "list": [
+    {"href": "/core-capabilities.hmd",  "label": "Core Capabilities",  "title": "Core Target Capabilities"},
+    {"href": "/server-side.hmd",  "label": "Server Side",  "title": "Server Side Capabilities, Open Source Javascript"},
+    {"href": "/client-side.hmd",  "label": "Client Side",  "title": "Portfolio of Responsive Websites"}
+  ]
+}

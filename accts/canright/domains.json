@@ -1,0 +1,11 @@
+{
+  "localhost":      { "aid": "canright" },
+  "canright.net":   { "aid": "canright" },
+  "192.168.41.173": { "aid": "canright" },
+  "_default": {
+    "vid": "live",
+    "db" : "json",
+    "www": true,
+    "active": true
+  }
+}

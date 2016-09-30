@@ -1,0 +1,20 @@
+{
+  "name": "Canright: Full Stack Software Engineer",
+  "firstName": "Jim",
+  "logo": {"src": "/img/canright.gif", "alt": "Canright", "height": 47, "width": 181},
+  "styles": [
+    {"css": "/style.css"}
+  ],
+  "libraries": [
+    {"src": "http://code.jquery.com/jquery.min.js"},
+    {"src": "http://cdn.jsdelivr.net/markdown-it/2.1.3/markdown-it.min.js"},
+    {"src": "/hmd.js"}
+  ],
+   "footer": [
+    {"href": "/resume.hmd",    "label": "Resume"},
+    {"href": "/resume.pdf",    "label": "PDF"},
+    {"href": "/projects.hmd",  "label": "Projects"},
+    {"href": "/portfolio.hmd", "label": "Portfolio"},
+    {"href": "/contact.hmd",   "label": "Contact"}
+  ]
+}

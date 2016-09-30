@@ -1,0 +1,139 @@
+body {
+  background-color: #333;
+  color: #FFF;
+  width: 96%;
+  margin: 8px auto;
+  text-align: left;
+}
+#blog {
+  color: #310;
+  width: 100%;
+  min-width: 480px;
+  height: auto;
+}
+a {
+  text-decoration: none;
+  color: #FA0;
+}
+a:hover {
+  color: #06F;
+}
+.base {
+  font-family: sans-serif;
+  margin: 1px 9%;
+  padding: 1% 9%;
+  border: 2px solid #333;
+}
+.base a {
+  color: #FA0;
+}
+header,
+article {
+  font-family: sans-serif;
+  margin: 1px 9%;
+  padding: 1% 9%;
+  border: 2px solid #333;
+  background-color: #EAF3FF;
+  color: #310;
+  display: block;
+}
+header a,
+article a {
+  color: #FA0;
+}
+header {
+  position: relative;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+header h2 {
+  color: #310;
+  position: absolute;
+  top: 0;
+  right: 9%;
+  text-align: right;
+  padding: 0;
+}
+header a b {
+  position: absolute;
+}
+footer {
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+article {
+  padding-bottom: 48px;
+  padding-top: 8px;
+}
+article * {
+  max-width: 680px;
+}
+article ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: foo;
+  display: table;
+}
+article li {
+  color: #310;
+  margin-left: 20px;
+  padding-left: 20px;
+  counter-increment: foo;
+  display: table-row;
+}
+article li a {
+  /*    margin-left:20px; padding-left:20px; */
+  color: #FA0;
+  font-weight: bold;
+}
+article li:before {
+  content: "•   ";
+  display: table-cell;
+  width: 20px;
+  color: #9BD;
+  font-size: 20px;
+}
+article h3 a {
+  color: #06F;
+}
+article h3 a:hover {
+  color: #FA0;
+}
+nav,
+footer {
+  font-family: sans-serif;
+  margin: 1px 9%;
+  padding: 1% 9%;
+  border: 2px solid #333;
+  background-color: #06F;
+  color: #FFF;
+}
+nav a,
+footer a {
+  color: #FA0;
+}
+nav a,
+footer a {
+  color: #FFF;
+}
+nav a:hover,
+footer a:hover {
+  color: #FA0;
+}
+nav ul,
+footer ul {
+  padding: 0;
+  margin: 0;
+}
+nav li,
+footer li {
+  display: inline;
+  list-style: none;
+  margin-right: 24px;
+}
+#logo {
+  margin-top: 16px;
+}
