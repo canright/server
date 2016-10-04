@@ -83,6 +83,52 @@ redis:   key: 'aid|vid|ext|basename'.
 
 ## Processing HTM Request
 
+### Preprocessing
+
+1. Parse the request to yield a directory, basename and extension.  The request extension is 'htm'.
+
+  - "www.mydomain.com/abc.htm" yields directory "/", basename "abc" and extension "htm".
+  - "www.mydomain.com/a/b/c/def.htm" yields directory "/a/b/c", basename "def" and extension "htm".
+   
+2. If a file exists in the directory with the basename and extension 'html', respond with the contents of that file.
+
+3. Otherwise, if no JSON file exists with the 'htm' extension, respond with "404: Resource not found."
+
+4. Otherwise assemble data and use it to resolve a handlebars template.
+
+### Assemble Data
+
+1.  The file with directory, basename and 'htm' extension is the JSON representation of the foundation object of the data.
+
+2.  If a file exists with the requested directory, basename and 'md' extension, then it contains markdown text injected into the data.   The entire markdown text is referenced as the 'md' field.  The markdown text may be sectioned at each formfeed character ('\f') to generate an array of sections referenced as 'mds'.  Text before the first formfeed may be referenced as mds[0].  Text after the first formfeed but before the second formfeed may be referenced as mds[1]. etc.
+
+3.  If there is a JSON file in the root ("/") directory with basename "site" and extension "hti", then the object represented is injected as property "site".
+
+4.  If there is a JSON file in the root ("/") directory with basename "menu" and extension "hti", then the object represented is injected as property "menu".
+
+5.  If there is a JSON file in the requested directory with basename "sect" and extension "hti", then the object represented is injected as property "section".
+
+6.  If there is a JSON file in the parent of the requested directory with basename "area" and extension "hti", then the object represented is injected as property "area".
+
+7.  If there is a JSON file in the requested directory with the request  basename and extension "-htm", then the object represented is injected as property "meta".
+
+### Find the template
+
+After the data is assembled, the basename for the template file to be used is the first found of these properties:
+
+- _skin
+- meta._skin
+- section._skin
+- area._skin
+- site._skin
+- "htm"
+
+The template file used will be in the '_skins' folder with that basename and a 'hog' extension.
+
+### Selected property
+
+If the data has no property named 'selected', but does have one named 'area.selected', then the property named 'selected' is injected with the value of 'area.selected'.
+
 - The htm resource is a data object (JSON in the filesystem or a record in mariaDb, mongoDb or Redis.
 - The htm data resource may be augmented by a /site.hti site-wide data object.
 - The data may also be augmented by a section.hti data object in the containing folder.
