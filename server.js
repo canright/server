@@ -61,7 +61,7 @@ const log = s => console.log(s),
   app.use(dyn);              // dynamic resources
   app.use(root.bubble);      // root folder request
 
-  log(`- Serving Franchise ${config.FID}: HTTP at localhost:${config.PORT}\n`);
+  log(`- Serving fid ${config.FID}: HTTP at localhost:${config.PORT}\n`);
   app.listen(config.PORT);
 }).catch((err) => log(`- aborted: ${err}.`));
 
