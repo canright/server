@@ -1,4 +1,4 @@
-### Client Side Web Applications Developer
+# Client Side Web Applications Developer
 
 Expert with core client side technologies:
 

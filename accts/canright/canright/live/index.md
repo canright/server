@@ -1,38 +1,55 @@
-##### This is the professional website for:
+##### This is the professional website for **Jim Canright**
 
-# Jim Canright
+# Senior Full Stack Javascript Applications Developer
 
-#### Full Stack Javascript Applications Developer
-#### Senior Software Engineer
+## Core Capabilities
 
-## [Core Capabilities](/core-capabilities.hmd)
+**Javascript: ES6/2015, Typescript, JSON**
 
-**Javascript ES6/2015**, **Functional Programming**, JSON, Lodash, Typescript, OOP
+**Functional Programming, OOP**
 
-**REST**: JWT, OAuth 2, Auth0
+**REST: JWT**, OAuth 2, Auth0
 
-**TDD**: Mocha, Chai, Supertest, assert, request, eslint
+**Linux, CLI, regix, ssh, vim**
 
-**GIT**, **NPM**, **Linux**: cli, bash, vi/vim, ssh, devops, agile, markdown
+**GIT, NPM, agile, devops, Markdown**
 
-## [Server Side Technologies](/server-side.hmd)
+**TDD, Mocha, Supertest, ESLint/TSLint**, Chai, Request
 
-**Node.js (LTS & Current)**, Express
+**Agile**, **Devops**, **Applications Architecture**, **Database Design**
+
+## [Server Side Capabilities](/server-side.hmd)
+
+**Node**, **Express**, nginx
+
+**Database**: **SQL**, **Database architect / ERD**, **Relational and non-relational databases**, **MS Sql Server**, Oracle, MySql / MariaDb, XML, MongoDb, **Redis**
 
 **AWS**: Lambda, CLI, S3, API Gateway, DynamoDB
 
-**Database**: SQL, Database architect, erd/Erwin, relational and non-relational databases, MS Sql Server, Oracle, MySql / MariaDb, XML, MongoDb, Redis
+**Application Domains**: eCommerce, execution management systems, enterprise applications, web database applications, intranets / extranets, content management systems, responsive websites, webmaster, server administration
 
-**Application Domains**: eCommerce, execution management systems, enterprise applications, web database applications, intranets / extranets, responsive websites, webmaster, server administration
+**Platforms and Background Technologies**: Ubuntu, C, Apache, PHP, LAMP, asp, .net, c#, Windows Server, IIS, MS Sql, vbscript, templating, handlebars
 
-**Platforms and Background Technologies**: Ubuntu, C, LAMP, asp, .net, c#, Windows Server, IIS, MS Sql, vbscript, templating, handlebars
+[Software Development Projects](/projects.hmd)
 
 ## [Client Side Capabilities](/client-side.hmd)
 
-**HTML5, CSS, CSS3, javascript, DOM, jQuery**, Less, markdown, Ajax, Fetch
+**React: JSX**, Webpack, Flux/Redux
 
-**REACT**, JSX, Webpack, Flux, angular
+**jQuery, DOM, XML, Ajax, Fetch**
 
-[**Software Development Projects**](/projects.hmd)
+**HTML5, CSS, CSS3, Less, SASS/SCSS, Markdown**
 
-[**Portfolio of Responsive Websites**](/portfolio.hmd)
+Angular 1, *Learning Angular 2*
+
+[Portfolio of Responsive Websites](/portfolio.hmd)
+
+## Background Technologies
+
+**HTTP, DNS**, FTP, SMTP
+
+**C**, Unix, LAMP, PHP
+
+**C#, .Net, ASP, vbScript, Jscript**, ActionScript
+
+Photoshop, UI / UX

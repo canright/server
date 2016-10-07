@@ -13,8 +13,6 @@
    "footer": [
     {"href": "/resume.hmd",    "label": "Resume"},
     {"href": "/resume.pdf",    "label": "PDF"},
-    {"href": "/projects.hmd",  "label": "Projects"},
-    {"href": "/portfolio.hmd", "label": "Portfolio"},
     {"href": "/contact.hmd",   "label": "Contact"}
   ]
 }

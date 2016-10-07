@@ -1,7 +1,9 @@
 {
   "list": [
-    {"href": "/core-capabilities.hmd",  "label": "Core Capabilities",  "title": "Core Target Capabilities"},
+    {"href": "/",                 "label": "Full Stack",   "title": "Full Stack Software Developer"},
     {"href": "/server-side.hmd",  "label": "Server Side",  "title": "Server Side Capabilities, Open Source Javascript"},
-    {"href": "/client-side.hmd",  "label": "Client Side",  "title": "Portfolio of Responsive Websites"}
+    {"href": "/client-side.hmd",  "label": "Client Side",  "title": "Client Side Capabilities"},
+    {"href": "/projects.hmd",     "label": "Projects",     "title": "Software Development Projects"},
+    {"href": "/portfolio.hmd",    "label": "Portfolio",    "title": "Portfolio of Responsive Websites"}
   ]
 }

@@ -1,88 +1,95 @@
 # Jim Canright
 
-### Full Stack Javascript Applications Developer
-### Senior Software Engineer
+### Senior Full Stack Javascript Applications Developer
 
 ## Core Capabilities
 
-- Javascript: ES6/2015, JSON, Node, Express
-- AWS: Lambda, CLI, S3, API Gateway, DynamoDB
-- REST: JWT, OAuth 2, Auth0
-- React: JSX, Webpack, Flux
-- Functional Programming, Lodash
-- git, NPM, Typescript, OOP, Agile, Devops
-- TDD, Mocha, Chai, Supertest, Request, Assert, ESLint
-- jQuery, DOM, XML, Ajax, Fetch
-- HTML5, CSS, CSS3, Less, Markdown
-- SQL, Relational and non-Relational Databases, Redis
-- [Server Side Capabilities](http://www.canright.net/server-side.hmd)
-- [Responsive Websites](http://www.canright.net/client-side.hmd)
+**Javascript: ES6/2015, Typescript, JSON**
 
-[//]: # (Swagger / Open API)
-[//]: # (Redux, Angular)
-[//]: # (Yaml)
-[//]: # (MongoDb)
+**Functional Programming, OOP**
 
-## Background Capabilities and Technologies
+**Templates, Moustache, Handlebars, Hogan**
 
-- HTTP, FTP, SMTP, DNS
-- Linux, CLI, bash, regix, vi/vim, ssh, Ubuntu 16.04
-- ERD/Erwin, mySql / MariaDb, Sql Server, Oracles, XML, SlickGrid
-- C, Unix, LAMP, Apache, PHP
-- C#, .Net, ASP, vbScript, Jscript, ActionScript
-- Windows Server, Sql Server, IIS
+**REST: JWT**, OAuth 2, Auth0
+
+**Linux, CLI, regix, ssh, vim**
+
+**GIT, NPM, agile, devops, Markdown**
+
+**TDD, Mocha, Supertest, ESLint/TSLint**, Chai, Request
+
+**Agile**, **Devops**, **Applications Architecture**, **Database Design**
+
+## Server Side Capabilities
+
+- **Node**, **Express**, nginx
+- **Database**: **SQL**, **Database architect / ERD**, **Relational and non-relational databases**, **MS Sql Server**, Oracle, MySql / MariaDb, XML, MongoDb, **Redis**
+- **AWS**: Lambda, CLI, S3, API Gateway, DynamoDB
+- **Application Domains**: eCommerce, execution management systems, enterprise applications, web database applications, intranets / extranets, content/document management systems, responsive websites, webmaster, server administration (linux & windows), dashboards, portals, grids
+- **Platforms and Background Technologies**: Ubuntu, C, Apache, PHP, LAMP, asp, .net, c#, Windows Server, IIS, MS Sql, vbscript, templating, handlebars
+
+## Client Side Capabilities
+
+- **React: JSX**, Webpack, Flux/Redux
+- **jQuery, DOM, XML, Ajax, Fetch**
+- **HTML5, CSS, CSS3, Less, SASS/SCSS, Markdown**
+- Angular 1, *Learning Angular 2*
+- [Portfolio of Responsive Websites](http://www.canright.net/portfolio.hmd)
+
+## Background Technologies
+
+- **HTTP, DNS**, FTP, SMTP
+- **C**, Unix, LAMP, PHP
+- **C#, .Net, ASP, vbScript, Jscript**, ActionScript
 - Photoshop, UI / UX
 
-## Domain Experience and Capabilities
+## Seleted Projects
 
-- Web database applications, custom extranets, content managers, portals, grids
-- Enterprise and execution systems
-- Application architecture, design & development
-- Requirements & Design Specifications
-- Document management systems
-- Agile, scrum, devops for lean teams
-- Project/Account/Business unit management
-- Connected devices / IOT, Raspberry PI
-- Hogan, handlebars, template strings
-- Webmaster, Server Administration (Windows Server & Linux)
+**EE Schenck, Maywood Studios | Full Stack Application Architect, Lead Developer**: Web Database e-commerce site for distributors and retail with product catalog, shopping-cart, and interface to back-end VAX/VMS inventory application. *Sql Server, ASP, j-script, jQuery, HTML5*
 
+**Websites for Architects | Product Owner, Full Stack Developer**: Design and develop responsive portfolio websites.  Over 120 clients.  Custom client side jQuery/javascript components: slide-shows, grids, animated panels and animations.  *jQuery/javascript, HTML5, CSS3*.  Multi-tenant content manager & account tracking / billing system *Node/Express, REST, JSON, React*.  Website Hosting *Ubuntu 16.04, Node*.
 
-## Employment / Project History
+**California High Speed Rail | Application Architect, Project Lead, Full Stack Developer**: High Volume Website for large infrastructure project.  Searchable document library, visualizations, social media interface. *Sql Server, IIS, ASP.net, HTML5, CSS3, jQuery*
 
-### Responsive Website Design and Development
+**Laika | Application Architect, Full Stack Developer**: Integrated corporate website featuring commercial and inhouse divisions with animation players, animation portfolios by artist, and 'build a reel' (shopping cart) feature.  *SQL Server, ASP, javascript/jQuery, HTML5*.
 
-##### Canright, Portland OR, 2011 - Present
+**Extranet Kit | Product Owner, Database Architect, Application Designer**: Application development framework featuring declarative configuration of extranets, intranets and content managers.  Used the extranet kit to efficiently deliver administration and maintenance portals for clients. *.Net, Sql Server, C#, ASP, VBscript*
 
-Responsive website design and development with **HTML5**, **CSS3**, **javascript** and **jQuery**.  Custom client side jQuery/javascript components: slide-shows, grids, animated panels and animations.
+**Ingenious | CTO, Application Architect**: Startup Venture to produce price estimator for used vehicles at auction in the field from VIN number.  VIN parser.  Price estimation algorithm.  *SQL Server, .Net*
 
-Re-engineered content manager to continue serving from existing Sql Server DB, but with a new active-client front end built with **jQuery** and SlickGrid to replace the legacy server-centric .Net/C# implementation.
+**Geotrust | Security Analyst, Algorythmic Architect**: Secure Certification Provisioning System.
 
-Developed new CMS with **Node** / **javascript ES6** / **linux** / **mongoDb**, **mySql**, **redis** and **REST**.
-Building new Admin Application for CMS with **React**, **Javascript ES6**, and **Griddle**.
+**Wacker Siltronix | Database / Application Analyst/Developer**: Process oriented manufacturing tracking and control with inventory management and quality data collection.  *Oracle SQL Forms, C*
 
-Transforming CMS & hosting platform and existing Websites for Architects accounts to **javascript ES6**, **Node**, **Linux**, **mySql**, **MongoDb**, **React**, **Griddle** from legacy Microsoft stack.
+**On Fulfillment | Application / Database Architect, Lead Developer**: Multi-tenant inventory control, work order management, customer order collection and tracking and shipping orders and manifests.  *SQL Server, ASP, vbScript, HTML*
 
-### Websites for Architects
+**Esco Steel | Database / Application Architect, Lead Developer / Designer**: Product catalog and specification with inventory interface, shopping cart and inventory / work order interface. *SQL Server, ASP, jQuery, HTML5*
 
-##### Canright, Portland OR, 2005 - 2011
+**Weiden & Kennedy | Application Architect and Developer**: Inhouse quarterly online magazine with content manager. *SQL Server, ASP, VBscript*
 
-Leading producer of custom websites for architects in US.  Established [Websites for Architects](http://canright.com) business unit with team of designers, engineers and salespeople.
+**Pacific Pride, Metrofueling | Database Analyst, Application Developer**: Fleet fuelling account management and fuel tracking.  *Oracle, C*
 
-Used Flash at first, then **HTML5/jQuery** to produce slide-shows and other active components.
+**Symantic | Application Architect and Developer**: Inhouse online magazine with content manager. *SQL Server, ASP, VBscript*
 
-Built content manager oriented to portfolio (architect) websites to maintain the database resources in an **MS Sql Server** database and the filesystem.  Website Generator interprets moustache-like templates and produces **HTML5**, **CSS3**, **jQuery/javascript** and other resources from that content.
+**Soloflex | Lead Developer/Designer**: E-Commerce product catalogue and shopping card.  SEO and online promotion. *SQL Server, ASP, jQuery, HTML5*
 
-### Web Database Applications Developer
+**Michigan Fruit Canners | Application Architect and Developer**: Receiving, Inventory, Shipping tracking with bar-coded device interfaces and transit orders to control manual and robotic fork lifts. *Oracle, C*
 
-##### Canright Systems, Portland OR, 1995 - 2006
+**Tropitone Furniture | Consultant, Database and Application Architect and Developer**: Full Enterprise Resources Planning System. *Oracle SQL Forms, C*
 
-Led successful consulting firm.  Architected, designed, developed and supported custom web database applications for entrepreneurial 'dot-coms' and established 'brick and mortars'.
+**Beoing Georgia | Consultant, Database Architect and Developer**: Specializing in Master Production Scheduling and Material Requirements Planning Engine. *Oracle SQL Forms, C*
 
-Developed an application development framework featuring declarative configuration of extranets, intranets or content managers.  Used the extranet kit to efficiently deliver administration and maintenance portals for clients.
+**TRW Space and Communications Group | Manufacturing Systems Analyst and Developer**: Master Production Scheduling, Material Requirements Planning, Order Processing. *Oracle, C*
 
-Clients included 1 800 Reconex, Laika, Pacificorp, On Fulfillment, Pacific Pride, Metrofueling, Truax Harris, Tropitone Furniture, Wacker Siltronix, Weiden & Kennedy, Esco Steel, Scrubmed, Geotrust, Symantic, Maywood Studios, EE Schenck, Zilog, Insight World Wide, Sublimity Insurance, Montgomery & Graham, Soloflex, Wherenext.
+## Employment History
 
-**Microsoft stack: .Net, Sql Server, IIS, C#, ASP, XML, Visual Basic, Windows Server, ...**
+**Canright | Owner / Principal**: Portland OR, 1995 - Present
+
+A successful consulting firm.  Architected, designed, developed and supported custom web database applications for entrepreneurial 'dot-coms' and established 'brick and mortars'.  During the dot com boom, Canright was listed as a Portland Business Journal Top 100 fastest growing company three times with up to two dozen employees.  During that period, our work was best charactarized as **web database applications for business** primarily on the Microsoft Stack (*.Net, IIS, Sql Server, C#, ASP, vbScript, jScript*) and client side web technologies (*HTML, CSS and javascript*).
+
+After the dot com crash, with a smaller team of half a dozen software engineers, a few designers and a few people in sales, administration and support, Canright developed the **Extranet Kit** and then leveraged it to launch the successful **Websites for Architects** venture.
+
+Technology advanced (HTML5, jQuery, improved javascript, CSS3, node, noSql DBs).  Canright embraced these technologies as they developed and migrated tools and techniques toward them.  Canright now hosts Linux Ubuntu 16.04 Servers running Node 6.7.0 and Redis, MongoDb and MariaDb.
 
 ## Education
 
@@ -90,7 +97,8 @@ Clients included 1 800 Reconex, Laika, Pacificorp, On Fulfillment, Pacific Pride
 
 ## Jim Canright
 
-- jim@canright.net - 503.267.8291
+- jim@canright.net
+- 503.267.8291
 - [canright.net](http://www.canright.net)
 - [github.com/canright](http://github.com/canright)
 - 4232 SE Hawthorne Blvd., Portland, OR 97215
