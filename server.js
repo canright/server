@@ -11,6 +11,7 @@ const morgan = require('morgan'),
   doms    = require('./lib/doms'),
   sarg    = require('./lib/sarg'),
   look    = require('./lib/look'),
+  can     = require('./lib/can'),
   tbx     = require('./lib/tbx'),
   pub     = require('./lib/pub'),
   dyn     = require('./lib/dyn'),
@@ -54,6 +55,7 @@ const log = s => console.log(s),
 //app.use(favicon(path.join(__dirname, "/publidata/nice/s0-0/favicon.ico")));
 
   app.use(sarg.zombies);     // 403 deny dead site
+  app.use(can);              // can administration functions
   app.use(look);             // json for key in /look/
   app.use(tbx);              // command toolbox from /tbx/
   app.use(sarg.unsupported); // 403 deny unknown exts

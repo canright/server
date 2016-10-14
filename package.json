@@ -1,14 +1,14 @@
 {
   "name": "canright-server",
-  "version": "0.2.0",
-  "description": "lean multi-acct markdown and server-side templating website server",
+  "version": "0.2.1",
+  "description": "lean multi-tenant markdown and server-side templating website server",
   "private": true,
   "author": "Jim Canright",
   "license": "MIT",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/canright-server.git"
+    "url": "git://github.com/canright/server.git"
   },
   "keywords": [
     "multi-site server",

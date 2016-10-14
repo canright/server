@@ -1,4 +1,6 @@
 node_modules
+.vscode
+can
 simple.js
 accts/admin
 accts/wfa
