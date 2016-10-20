@@ -4,26 +4,20 @@
 
 ## Core Capabilities
 
-**Javascript: ES6/2015, Typescript, JSON**
+- **Javascript: ES6/2015, Typescript, JSON**
 
-**Functional Programming, OOP**
-
-**Templates, Moustache, Handlebars, Hogan**
-
-**REST: JWT**, OAuth 2, Auth0
-
-**Linux, CLI, regix, ssh, vim**
-
-**GIT, NPM, agile, devops, Markdown**
-
-**TDD, Mocha, Supertest, ESLint/TSLint**, Chai, Request
-
-**Agile**, **Devops**, **Applications Architecture**, **Database Design**
+- **Functional Programming, OOP**
+- **Templates, Moustache, Handlebars, Hogan**
+- **REST: JWT**, OAuth 2, Auth0
+- **Linux, CLI, regix, ssh, vim**
+- **GIT, NPM, agile, devops, Markdown**
+- **TDD, Mocha, Supertest, ESLint/TSLint**, Chai, Request
+- *Agile**, **Devops**, **Applications Architecture**, **Database Design**
 
 ## Server Side Capabilities
 
 - **Node**, **Express**, nginx
-- **Database**: **SQL**, **Database architect / ERD**, **Relational and non-relational databases**, **MS Sql Server**, Oracle, MySql / MariaDb, XML, MongoDb, **Redis**
+- **Database**: **SQL**, **Database architect / ERD**, **Relational and non-relational databases**, **MS Sql Server**, **Redis**, Oracle, MySql / MariaDb, MongoDb, XML
 - **AWS**: Lambda, CLI, S3, API Gateway, DynamoDB
 - **Application Domains**: eCommerce, execution management systems, enterprise applications, web database applications, intranets / extranets, content/document management systems, responsive websites, webmaster, server administration (linux & windows), dashboards, portals, grids
 - **Platforms and Background Technologies**: Ubuntu, C, Apache, PHP, LAMP, asp, .net, c#, Windows Server, IIS, MS Sql, vbscript, templating, handlebars
@@ -43,17 +37,19 @@
 - **C#, .Net, ASP, vbScript, Jscript**, ActionScript
 - Photoshop, UI / UX
 
-## Seleted Projects
+## Selected Projects
+
+**Websites for Architects | Product Owner, Full Stack Developer**: Multi-tenant content manager & account tracking / billing system. *Node/Express, REST, JSON, React*.  Multi-tenant Website Hosting *Ubuntu 16.10, Node, Devops*.
+
+**Websites for Architects | Product Owner, Website Designer**: Design and develop responsive portfolio websites.  Over 120 clients.  Custom client side jQuery/javascript components: slide-shows, grids, animated panels and animations.  *jQuery/javascript, HTML5, CSS3*, SEO, Webmaster.
 
 **EE Schenck, Maywood Studios | Full Stack Application Architect, Lead Developer**: Web Database e-commerce site for distributors and retail with product catalog, shopping-cart, and interface to back-end VAX/VMS inventory application. *Sql Server, ASP, j-script, jQuery, HTML5*
 
-**Websites for Architects | Product Owner, Full Stack Developer**: Design and develop responsive portfolio websites.  Over 120 clients.  Custom client side jQuery/javascript components: slide-shows, grids, animated panels and animations.  *jQuery/javascript, HTML5, CSS3*.  Multi-tenant content manager & account tracking / billing system *Node/Express, REST, JSON, React*.  Website Hosting *Ubuntu 16.04, Node*.
-
 **California High Speed Rail | Application Architect, Project Lead, Full Stack Developer**: High Volume Website for large infrastructure project.  Searchable document library, visualizations, social media interface. *Sql Server, IIS, ASP.net, HTML5, CSS3, jQuery*
 
-**Laika | Application Architect, Full Stack Developer**: Integrated corporate website featuring commercial and inhouse divisions with animation players, animation portfolios by artist, and 'build a reel' (shopping cart) feature.  *SQL Server, ASP, javascript/jQuery, HTML5*.
-
 **Extranet Kit | Product Owner, Database Architect, Application Designer**: Application development framework featuring declarative configuration of extranets, intranets and content managers.  Used the extranet kit to efficiently deliver administration and maintenance portals for clients. *.Net, Sql Server, C#, ASP, VBscript*
+
+**Laika | Application Architect, Full Stack Developer**: Integrated corporate website featuring commercial and inhouse divisions with animation players, animation portfolios by artist, and 'build a reel' (shopping cart) feature.  *SQL Server, ASP, javascript/jQuery, HTML5*.
 
 **Ingenious | CTO, Application Architect**: Startup Venture to produce price estimator for used vehicles at auction in the field from VIN number.  VIN parser.  Price estimation algorithm.  *SQL Server, .Net*
 
@@ -87,7 +83,7 @@
 
 A successful consulting firm.  Architected, designed, developed and supported custom web database applications for entrepreneurial 'dot-coms' and established 'brick and mortars'.  During the dot com boom, Canright was listed as a Portland Business Journal Top 100 fastest growing company three times with up to two dozen employees.  During that period, our work was best charactarized as **web database applications for business** primarily on the Microsoft Stack (*.Net, IIS, Sql Server, C#, ASP, vbScript, jScript*) and client side web technologies (*HTML, CSS and javascript*).
 
-After the dot com crash, with a smaller team of half a dozen software engineers, a few designers and a few people in sales, administration and support, Canright developed the **Extranet Kit** and then leveraged it to launch the successful **Websites for Architects** venture.
+After the dot com crash, with a smaller team of half a dozen software engineers, a few designers and a few people in sales, administration and support, Canright developed the **Extranet Kit** and leveraged it to launch the successful **Websites for Architects** venture.
 
 Technology advanced (HTML5, jQuery, improved javascript, CSS3, node, noSql DBs).  Canright embraced these technologies as they developed and migrated tools and techniques toward them.  Canright now hosts Linux Ubuntu 16.04 Servers running Node 6.7.0 and Redis, MongoDb and MariaDb.
 

@@ -1,14 +1,16 @@
 # Selected Software Development Projects
 
-**EE Schenck, Maywood Studios | Full Stack Application Architect, Lead Developer**: Web Database e-commerce site for distributors and retail with product catalog, shopping-cart, and interface to back-end VAX/VMS inventory application. *Sql Server, ASP, j-script, jQuery, HTML5*
+**Websites for Architects | Product Owner, Full Stack Developer**: Multi-tenant content manager & account tracking / billing system. *Node/Express, REST, JSON, React*.  Multi-tenant Website Hosting *Ubuntu 16.10, Node, Devops*.
 
-**Websites for Architects | Product Owner, Full Stack Developer**: Design and develop responsive portfolio websites.  Over 120 clients.  Custom client side jQuery/javascript components: slide-shows, grids, animated panels and animations.  *jQuery/javascript, HTML5, CSS3*.  Multi-tenant content manager & account tracking / billing system *Node/Express, REST, JSON, React*.  Website Hosting *Ubuntu 16.04, Node*.
+**Websites for Architects | Product Owner, Website Designer**: Design and develop responsive portfolio websites.  Over 120 clients.  Custom client side jQuery/javascript components: slide-shows, grids, animated panels and animations.  *jQuery/javascript, HTML5, CSS3*, SEO, Webmaster.
+
+**EE Schenck, Maywood Studios | Full Stack Application Architect, Lead Developer**: Web Database e-commerce site for distributors and retail with product catalog, shopping-cart, and interface to back-end VAX/VMS inventory application. *Sql Server, ASP, j-script, jQuery, HTML5*
 
 **California High Speed Rail | Application Architect, Project Lead, Full Stack Developer**: High Volume Website for large infrastructure project.  Searchable document library, visualizations, social media interface. *Sql Server, IIS, ASP.net, HTML5, CSS3, jQuery*
 
-**Laika | Application Architect, Full Stack Developer**: Integrated corporate website featuring commercial and inhouse divisions with animation players, animation portfolios by artist, and 'build a reel' (shopping cart) feature.  *SQL Server, ASP, javascript/jQuery, HTML5*.
-
 **Extranet Kit | Product Owner, Database Architect, Application Designer**: Application development framework featuring declarative configuration of extranets, intranets and content managers.  Used the extranet kit to efficiently deliver administration and maintenance portals for clients. *.Net, Sql Server, C#, ASP, VBscript*
+
+**Laika | Application Architect, Full Stack Developer**: Integrated corporate website featuring commercial and inhouse divisions with animation players, animation portfolios by artist, and 'build a reel' (shopping cart) feature.  *SQL Server, ASP, javascript/jQuery, HTML5*.
 
 **Ingenious | CTO, Application Architect**: Startup Venture to produce price estimator for used vehicles at auction in the field from VIN number.  VIN parser.  Price estimation algorithm.  *SQL Server, .Net*
 

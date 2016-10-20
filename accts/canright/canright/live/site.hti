@@ -11,8 +11,8 @@
     {"src": "/hmd.js"}
   ],
    "footer": [
-    {"href": "/resume.hmd",    "label": "Resume"},
-    {"href": "/resume.pdf",    "label": "PDF"},
+    {"href": "/resume.hmd",    "label": "Resume (html)"},
+    {"href": "/resume.pdf",    "label": "Resume (PDF)"},
     {"href": "/contact.hmd",   "label": "Contact"}
   ]
 }
