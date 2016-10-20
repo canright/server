@@ -14,7 +14,7 @@ A lean multi-tenant web application server framework with support for:
 - supports data serialized in the filesystem as JSON or in mariaDb/mySql, mongoDb or Redis data repositories.
 - static file server.
 
-## Account Configuation
+## Configure Account
 
 The target use case for this web server is that it be the hosting platform for a **provider** (a website designer / developer) with multiple client accounts.
 
