@@ -12,7 +12,7 @@
 - **Linux, CLI, regix, ssh, vim**
 - **GIT, NPM, agile, devops, Markdown**
 - **TDD, Mocha, Supertest, ESLint/TSLint**, Chai, Request
-- *Agile**, **Devops**, **Applications Architecture**, **Database Design**
+- **Agile**, **Devops**, **Applications Architecture**, **Database Design**
 
 ## Server Side Capabilities
 
@@ -33,8 +33,8 @@
 ## Background Technologies
 
 - **HTTP, DNS**, FTP, SMTP
-- **C**, Unix, LAMP, PHP
-- **C#, .Net, ASP, vbScript, Jscript**, ActionScript
+- **C**, Unix, LAMP, PHP, Java, ASM, MASM, Pascal, Fortran
+- **C#, .Net, ASP, vbScript**, Jscript, ActionScript
 - Photoshop, UI / UX
 
 ## Selected Projects
@@ -90,11 +90,11 @@ Technology advanced (HTML5, jQuery, improved javascript, CSS3, node, noSql DBs).
 ## Education
 
 - BSCS, U.C. Berkeley
+- APICS CPIM (Certified Production and Inventory Management)
 
 ## Jim Canright
 
-- jim@canright.net
-- 503.267.8291
-- [canright.net](http://www.canright.net)
-- [github.com/canright](http://github.com/canright)
+- jim@canright.net - 503.267.8291
 - 4232 SE Hawthorne Blvd., Portland, OR 97215
+- [Resume Website](http://www.canright.net)
+- [Open Source Projects](http://github.com/canright)

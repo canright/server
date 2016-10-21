@@ -48,8 +48,8 @@ Angular 1, *Learning Angular 2*
 
 **HTTP, DNS**, FTP, SMTP
 
-**C**, Unix, LAMP, PHP
+**C**, Unix, LAMP, PHP, Java, ASM, MASM, Pascal, Fortran
 
-**C#, .Net, ASP, vbScript, Jscript**, ActionScript
+**C#, .Net, ASP, vbScript**, Jscript, ActionScript
 
 Photoshop, UI / UX
