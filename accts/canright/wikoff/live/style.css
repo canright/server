@@ -1,0 +1,81 @@
+* {margin:0px; padding:0px; border:none;}
+body {background:#999; /* #e9e3db; background-image:url(/img/background.jpg); background-repeat:no-repeat; */ color:#5f6062; font-family:Palatino Linotype, Book Antiqua, Palatino, serif; font-size:12px; line-height:16px; text-align:left;}
+a:link, a:visited, a:active {color:#5f6062; text-decoration:none;}
+a:hover {color:#909473; text-decoration:none;}
+
+/*Fonts*/
+h1 {padding:0 0 10px 0; margin:0px; font-size:15px; font-weight:normal; color:#5f6062;}
+h2 {padding:0px; margin:0px; font-size:15px; font-weight:normal; color:#5f6062;}
+h3 {color:#909473; font-weight:normal; font-size:12px;}
+p {padding:0 0 10px 0;}
+
+/*Global*/
+#container {width:100%; height:100%;}
+#content {position:relative; margin:auto; width:974px; height:530px; background:url(/img/box.png) no-repeat; font-size:12px; line-height:16px; text-align:left;z-index:10;}
+.logo {position:absolute; bottom:20px; left:20px; z-index:20;}
+
+/*Menu*/
+#menu-container {position:absolute; top:25px; left:25px; width:200px; height:480px; overflow:hidden;}
+#main-menu {font-family:Palatino Linotype, Book Antiqua, Palatino, serif; font-weight:normal; text-align:left;}
+#main-menu li {list-style:none; display:block; text-decoration: none; color:#5f6062; font-size:15px; line-height:20px; font-weight:normal;}
+#main-menu li a:link, #main-menu li a:active, #main-menu li a:visited {color:#5f6062;}
+#main-menu li a:hover, #main-menu li.selected a {color:#000; /* #909473; */}
+
+/*Projects Menu*/
+#projects-menu {font-family:Palatino Linotype, Book Antiqua, Palatino, serif; font-weight:normal; text-align:left;}
+#projects-menu li {list-style:none; display:block; text-decoration:none; color:#5f6062; font-size:15px; line-height:20px; font-weight:normal;}
+#projects-menu li a:link, #projects-menu li a:active, #projects-menu li a:visited {color:#5f6062;}
+#projects-menu li a:hover, #projects-menu li.selected parent {color:#000; /* #909473; */}
+#projects-menu li ul li {color:#5f6062; font-size:12px; line-height:16px;}
+#projects-menu li ul li a:link {color:#5f6062;}
+#projects-menu li ul li a:hover {color:#000; /* #909473; */}
+#projects-menu li.selected parent ul li.selected, #projects-menu li.selected ul li.selected, #projects-menu li.parent ul li.selected, #projects-menu li ul li.selected a {color:#000; /* 909473; */}
+
+/*Page .slideshow */
+#cAuto     {position:absolute; top:25px; left:225px; z-index:100}
+#cAuto img {position:absolute}
+#cShow     {position:absolute}
+#cShow img {position:absolute}
+
+.copy {position:absolute; top:25px; left:545px; width:404px; height:480px; text-align:justify; overflow:auto; z-index:20;}
+
+/*Project Page*/
+.project-container {position:absolute; top:25px; left:225px; width:724px; height:480px; background:url(/img/project-background.png) no-repeat; z-index:10;}
+.project-copy-container {position:absolute; top:25px; left:225px; width:640px; height:480px; z-index:20; background:#fefbf6;}
+.project-copy {position:absolute; top:20px; left:20px; width:600px; height:460px; overflow:auto; text-align:justify; z-index:30;}
+
+.navBoxes {position:absolute; top:0px; right:-6px; width:72px}
+.navBoxes img {padding:0; margin:2px; width:64px; height:64px}
+
+.navBoxes img {
+    opacity: 0.6;
+    transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -webkit-transition: opacity .5s ease-in-out;
+}
+.navBoxes img:hover {
+    opacity: 1.0;
+    transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -webkit-transition: opacity .5s ease-in-out;
+};
+
+.navBoxes img:hover, #mask img:hover {cursor:hand}
+   
+
+/*Project Info*/
+#displayText {position:absolute; bottom:-16px; right:1px; cursor:pointer; cursor:hand; z-index:100;}
+#toggleText {position:absolute; top:0px; left:0px; width:640px; height:480px; background:url(/img/info-background.png) no-repeat; z-index:100;}
+
+/*People Page*/
+.people-copy-container {position:absolute; top:25px; left:225px; width:724px; height:480px; overflow:auto; z-index:20;}
+.people-copy {width:704px; text-align:justify; margin:0 0 20px 0; z-index:30;}
+.people-copy img {float:left; margin:0 20px 10px 0;}
+
+/*Contact*/
+.contact-copy {position:absolute; top:25px; right:25px; width:200px; height:480px; overflow:auto; text-align:justify; z-index:20;}
+
+/*Footer*/
+.footer {position:absolute; bottom:-20px; right:0px; font-size:11px; color:#d5cfc7;}
+.footer a {color:#d5cfc7;}
+.footer a:hover {color:#909473;}

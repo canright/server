@@ -1,0 +1,15 @@
+<div class="people-copy-container">
+
+{{#bios}}
+<div class="people">
+<div class="people-copy">
+<img src="/people/{{img}}" border="0" title="{{name}}" class="people" width="105" height="105" />
+<h2>{{name}}</h2>
+<p>{{role}} &bull; <a href="/people/{{resume}}" target="_blank">Resume</a>
+<div class="markdown">
+{{{blurb}}}
+</div></div></div>
+
+{{/bios}}
+
+</div>

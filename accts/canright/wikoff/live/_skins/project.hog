@@ -1,0 +1,28 @@
+<div class="project-container">
+
+  <div id="cShow">
+{{#slides}}
+    <img src="/projects/{{name}}/{{src}}">
+{{/slides}}
+  </div>
+
+  <div id="Nav" class="navBoxes" data-proj="{{label}}">
+{{#slides}}
+    <a><img src="/projects/{{name}}/{{src}}"></a>
+{{/slides}}
+  </div>
+
+  <a id="displayText" href="javascript:toggle();">Project Info</a>
+
+  <div id="toggleText" style="display: none">
+    <div class="project-copy">
+      <h2>{{title}}</h2>
+      {{subTitle}}
+
+<div class="markdown">
+{{{info}}}
+</div>
+    </div>
+  </div>
+
+</div>
