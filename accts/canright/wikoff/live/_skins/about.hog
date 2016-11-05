@@ -1,0 +1,12 @@
+<div id="cAuto">
+{{#slides}}
+  <img src="/about/{{src}}">
+{{/slides}}
+</div>
+
+<div class="copy">
+<h1>{{title}}</h1>
+<div class="markdown">
+{{blurb}}
+</div>
+</div>

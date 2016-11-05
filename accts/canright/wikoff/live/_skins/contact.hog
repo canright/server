@@ -1,0 +1,10 @@
+<div id="cAuto">
+{{#slides}}
+  <img src="/contact/{{src}}">
+{{/slides}}
+</div>
+
+<div class="contact-copy markdown">
+# {{title}}
+{{{info}}}
+</div>

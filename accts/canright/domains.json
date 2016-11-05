@@ -1,7 +1,8 @@
 {
-  "localhost":      { "aid": "canright" },
-  "canright.net":   { "aid": "canright" },
-  "192.168.41.173": { "aid": "canright" },
+  "localhost":           { "aid": "canright" },
+  "canright.net":        { "aid": "canright" },
+  "192.168.41.173":      { "aid": "canright" },
+  "wikoff.canright.com": { "aid": "wikoff" },
   "_default": {
     "vid": "live",
     "db" : "json",
@@ -9,3 +10,4 @@
     "active": true
   }
 }
+
